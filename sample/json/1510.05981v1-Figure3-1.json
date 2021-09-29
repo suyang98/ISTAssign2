@@ -1,0 +1,20 @@
+{
+    "paper_ID": "1510.05981v1",
+    "figure_ID": "1510.05981v1-Figure3-1.png",
+    "figure_type": "Graph Plot",
+    "ori_caption": "Figure 3: Time series of official dengue incidence and tweets expressing personal experience for the city of Manaus.",
+    "sentence_length": 1,
+    "title": "A latent shared-component generative model for real-time disease\n  surveillance using Twitter data",
+    "level_0_normalized_caption": [
+        "time series of official dengue incidence and tweets expressing personal experience for the city of manaus ."
+    ],
+    "ImgText": [],
+    "meta_info": {
+        "create_time": "2021-03-05 16:24:36",
+        "version": "v1_naive_baseline",
+        "contact_info": {
+            "name": "Ting-Yao Hsu",
+            "email": "txh357@psu.edu"
+        }
+    }
+}

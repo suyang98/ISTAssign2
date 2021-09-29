@@ -1,0 +1,63 @@
+{
+    "paper_ID": "2009.06211v1",
+    "figure_ID": "2009.06211v1-Figure1-1.png",
+    "figure_type": "Graph Plot",
+    "ori_caption": "Figure 1: Micro-F1 (%) performance with respect to the length of the chains.",
+    "sentence_length": 1,
+    "title": "Implicit Graph Neural Networks",
+    "level_0_normalized_caption": [
+        "micro-f ( % ) performance with respect to the length of the chains ."
+    ],
+    "ImgText": [
+        "GAT",
+        "(Veli",
+        "kovi",
+        "et",
+        "al.,",
+        "2017)",
+        "SSE",
+        "(Dai",
+        "et",
+        "al.,",
+        "2018)",
+        "IGNN",
+        "(%",
+        ")",
+        "SGC",
+        "(Wu",
+        "et",
+        "al.,",
+        "2019a)GCN",
+        "(Kipf",
+        "and",
+        "Welling,",
+        "2016)",
+        "o-",
+        "F1",
+        "M",
+        "icr",
+        "100",
+        "90",
+        "80",
+        "70",
+        "60",
+        "50",
+        "0",
+        "2",
+        "4",
+        "6",
+        "8",
+        "10",
+        "Long",
+        "Range",
+        "Dependency"
+    ],
+    "meta_info": {
+        "create_time": "2021-03-05 16:24:44",
+        "version": "v1_naive_baseline",
+        "contact_info": {
+            "name": "Ting-Yao Hsu",
+            "email": "txh357@psu.edu"
+        }
+    }
+}

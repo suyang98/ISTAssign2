@@ -1,0 +1,20 @@
+{
+    "paper_ID": "1904.09352v1",
+    "figure_ID": "1904.09352v1-Figure8-1.png",
+    "figure_type": "Graph Plot",
+    "ori_caption": "Figure 8: First designed network using OSPF Protocol.",
+    "sentence_length": 1,
+    "title": "Donkey and Smuggler Optimization Algorithm: A Collaborative Working\n  Approach to Path Finding",
+    "level_0_normalized_caption": [
+        "first designed network using ospf protocol ."
+    ],
+    "ImgText": [],
+    "meta_info": {
+        "create_time": "2021-03-05 16:17:41",
+        "version": "v1_naive_baseline",
+        "contact_info": {
+            "name": "Ting-Yao Hsu",
+            "email": "txh357@psu.edu"
+        }
+    }
+}

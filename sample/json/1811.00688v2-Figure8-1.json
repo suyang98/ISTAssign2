@@ -1,0 +1,51 @@
+{
+    "paper_ID": "1811.00688v2",
+    "figure_ID": "1811.00688v2-Figure8-1.png",
+    "figure_type": "Graph Plot",
+    "ori_caption": "Figure 8: Log likelihood at each iteration using Algorithm1 on the Somatosensory spike trains dataset.",
+    "sentence_length": 1,
+    "title": "Data-driven Perception of Neuron Point Process with Unknown Unknowns",
+    "level_0_normalized_caption": [
+        "log likelihood at each iteration using algorithm1 on the somatosensory spike trains dataset ."
+    ],
+    "ImgText": [
+        "with",
+        "Unknowns",
+        "without",
+        "Unknowns",
+        "d",
+        "o",
+        "o",
+        "ke",
+        "lih",
+        "g",
+        "li",
+        "L",
+        "o",
+        "4000",
+        "3000",
+        "2000",
+        "1000",
+        "0",
+        "-1000",
+        "-2000",
+        "-3000",
+        "-4000",
+        "-5000",
+        "0",
+        "10",
+        "20",
+        "30",
+        "40",
+        "50",
+        "iteration"
+    ],
+    "meta_info": {
+        "create_time": "2021-03-05 16:22:26",
+        "version": "v1_naive_baseline",
+        "contact_info": {
+            "name": "Ting-Yao Hsu",
+            "email": "txh357@psu.edu"
+        }
+    }
+}

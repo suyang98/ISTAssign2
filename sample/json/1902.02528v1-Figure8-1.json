@@ -1,0 +1,20 @@
+{
+    "paper_ID": "1902.02528v1",
+    "figure_ID": "1902.02528v1-Figure8-1.png",
+    "figure_type": "Graph Plot",
+    "ori_caption": "Fig. 8. Programming failure for different programming conditions for 2T2R configuration (PCSA) on a kbit 2T2R array.",
+    "sentence_length": 1,
+    "title": "In-Memory and Error-Immune Differential RRAM Implementation of Binarized\n  Deep Neural Networks",
+    "level_0_normalized_caption": [
+        "programming failure for different programming conditions for 2t2r configuration ( pcsa ) on a kbit 2t2r array ."
+    ],
+    "ImgText": [],
+    "meta_info": {
+        "create_time": "2021-03-05 16:18:20",
+        "version": "v1_naive_baseline",
+        "contact_info": {
+            "name": "Ting-Yao Hsu",
+            "email": "txh357@psu.edu"
+        }
+    }
+}

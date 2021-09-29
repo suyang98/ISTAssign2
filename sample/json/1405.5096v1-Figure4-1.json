@@ -1,0 +1,61 @@
+{
+    "paper_ID": "1405.5096v1",
+    "figure_ID": "1405.5096v1-Figure4-1.png",
+    "figure_type": "Graph Plot",
+    "ori_caption": "Figure 4.Regret per unit of timeR\u03c0(T )/T vs. speed\u03c3 \u2013K = 10 arms.",
+    "sentence_length": 1,
+    "title": "Unimodal Bandits: Regret Lower Bounds and Optimal Algorithms",
+    "level_0_normalized_caption": [
+        "regret per unit of timer\u03c0 ( t ) /t vs. speed\u03c3 \u2013k = 10 arms ."
+    ],
+    "ImgText": [
+        "SW\u2212UCB",
+        "SW\u2212KL\u2212UCB",
+        "SW\u2212UCB\u2212U",
+        "SW\u2212OSUB",
+        ")/",
+        "T",
+        "\u03c0",
+        "(",
+        "T",
+        "e",
+        "R",
+        "f",
+        "t",
+        "im",
+        "ni",
+        "t",
+        "o",
+        "er",
+        "u",
+        "et",
+        "p",
+        "re",
+        "gr",
+        "speed",
+        "\u03c3",
+        "0.4",
+        "0.35",
+        "0.3",
+        "0.25",
+        "0.2",
+        "0.15",
+        "0.1",
+        "0.05",
+        "0",
+        "0.002",
+        "0.004",
+        "0.006",
+        "0.008",
+        "0.01",
+        "0"
+    ],
+    "meta_info": {
+        "create_time": "2021-03-05 16:22:23",
+        "version": "v1_naive_baseline",
+        "contact_info": {
+            "name": "Ting-Yao Hsu",
+            "email": "txh357@psu.edu"
+        }
+    }
+}

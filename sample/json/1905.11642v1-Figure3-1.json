@@ -1,0 +1,20 @@
+{
+    "paper_ID": "1905.11642v1",
+    "figure_ID": "1905.11642v1-Figure3-1.png",
+    "figure_type": "Graph Plot",
+    "ori_caption": "Fig. 3. Emerging flow-density curves (Fundamental Diagrams) for various simulated scenarios.",
+    "sentence_length": 1,
+    "title": "Lane-free Artificial-Fluid Concept for Vehicular Traffic",
+    "level_0_normalized_caption": [
+        "emerging flow-density curves ( fundamental diagrams ) for various simulated scenarios ."
+    ],
+    "ImgText": [],
+    "meta_info": {
+        "create_time": "2021-03-05 16:18:07",
+        "version": "v1_naive_baseline",
+        "contact_info": {
+            "name": "Ting-Yao Hsu",
+            "email": "txh357@psu.edu"
+        }
+    }
+}

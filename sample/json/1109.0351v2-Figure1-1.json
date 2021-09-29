@@ -1,0 +1,38 @@
+{
+    "paper_ID": "1109.0351v2",
+    "figure_ID": "1109.0351v2-Figure1-1.png",
+    "figure_type": "Graph Plot",
+    "ori_caption": "Fig. 1. The directed information rate between the input and output processes for the continuous-time Poisson channel with feedback, as a function of P (x), the pmf of the input to the channel. The input to the channel is one of two possible values\u03bb1 = 1 and\u03bb2 = 2, and it is the intensity of the Poisson process at the output of the channel until the next event.",
+    "sentence_length": 2,
+    "title": "Directed Information, Causal Estimation, and Communication in Continuous\n  Time",
+    "level_0_normalized_caption": [
+        "the directed information rate between the input and output processes for the continuous-time poisson channel with feedback , as a function of p ( x ) , the pmf of the input to the channel .",
+        "the input to the channel is one of two possible values\u03bb = and\u03bb2 = 2 , and it is the intensity of the poisson process at the output of the channel until the next event ."
+    ],
+    "ImgText": [
+        "\u2192",
+        "Y",
+        ")",
+        "p",
+        ":=",
+        "P{X",
+        "=",
+        "\u03bb1}",
+        "I",
+        "(X",
+        "0.1",
+        "0.06",
+        "0.02",
+        "0.2",
+        "0.6",
+        "1"
+    ],
+    "meta_info": {
+        "create_time": "2021-03-05 16:24:43",
+        "version": "v1_naive_baseline",
+        "contact_info": {
+            "name": "Ting-Yao Hsu",
+            "email": "txh357@psu.edu"
+        }
+    }
+}

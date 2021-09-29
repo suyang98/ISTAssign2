@@ -1,0 +1,21 @@
+{
+    "paper_ID": "1701.08671v1",
+    "figure_ID": "1701.08671v1-Figure2-1.png",
+    "figure_type": "Graph Plot",
+    "ori_caption": "Figure 2 The relationship between sampling effort (in terms of number of association events observed) and assortativity as a result of random social interactions in a simulated population. For each census the black point represents the median value, the dark grey box the interquartile range and the light grey box the range from 10 runs of the simulation.",
+    "sentence_length": 2,
+    "title": "The perceived assortativity of social networks: Methodological problems\n  and solutions",
+    "level_0_normalized_caption": [
+        "the relationship between sampling effort ( in terms of number of association events observed ) and assortativity as a result of random social interactions in a simulated population .",
+        "for each census the black point represents the median value , the dark grey box the interquartile range and the light grey box the range from 10 runs of the simulation ."
+    ],
+    "ImgText": [],
+    "meta_info": {
+        "create_time": "2021-03-05 16:19:11",
+        "version": "v1_naive_baseline",
+        "contact_info": {
+            "name": "Ting-Yao Hsu",
+            "email": "txh357@psu.edu"
+        }
+    }
+}

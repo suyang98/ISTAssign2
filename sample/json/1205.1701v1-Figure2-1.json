@@ -1,0 +1,20 @@
+{
+    "paper_ID": "1205.1701v1",
+    "figure_ID": "1205.1701v1-Figure2-1.png",
+    "figure_type": "Graph Plot",
+    "ori_caption": "Figure 2. Effect of variation of TA time on delivery ratio and energy consumption",
+    "sentence_length": 1,
+    "title": "Comparison of CSMA based MAC protocols of wireless sensor networks",
+    "level_0_normalized_caption": [
+        "effect of variation of ta time on delivery ratio and energy consumption ."
+    ],
+    "ImgText": [],
+    "meta_info": {
+        "create_time": "2021-03-05 16:19:16",
+        "version": "v1_naive_baseline",
+        "contact_info": {
+            "name": "Ting-Yao Hsu",
+            "email": "txh357@psu.edu"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "paper_ID": "1809.06332v2",
+    "figure_ID": "1809.06332v2-Figure9-1.png",
+    "figure_type": "Graph Plot",
+    "ori_caption": "Fig. 9. Error probability of the 2 \u00d7 2 D-MIMO system with N = 105 and Tint = 0.2 ms vs. total training sequence length for LS CIR estimator. Performance of LS-DFE with perfectly known CSI is shown for the sake of comparison.",
+    "sentence_length": 2,
+    "title": "Diffusive MIMO Molecular Communications: Channel Estimation,\n  Equalization and Detection",
+    "level_0_normalized_caption": [
+        "error probability of the 2 \u00d7 2 d-mimo system with n = 105 and tint = 0.2 ms vs. total training sequence length for ls cir estimator .",
+        "performance of ls-dfe with perfectly known csi is shown for the sake of comparison ."
+    ],
+    "ImgText": [],
+    "meta_info": {
+        "create_time": "2021-03-05 16:18:32",
+        "version": "v1_naive_baseline",
+        "contact_info": {
+            "name": "Ting-Yao Hsu",
+            "email": "txh357@psu.edu"
+        }
+    }
+}

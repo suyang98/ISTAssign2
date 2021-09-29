@@ -1,0 +1,43 @@
+{
+    "paper_ID": "1911.10287v1",
+    "figure_ID": "1911.10287v1-Figure1-1.png",
+    "figure_type": "Graph Plot",
+    "ori_caption": "Fig. 1. Impact of the architecture on the robustness under BM deviations.",
+    "sentence_length": 1,
+    "title": "Training Modern Deep Neural Networks for Memory-Fault Robustness",
+    "level_0_normalized_caption": [
+        "impact of the architecture on the robustness under bm deviations ."
+    ],
+    "ImgText": [
+        "PreActResNet18",
+        "MobileNetV2",
+        "SENet18",
+        "ResNet18",
+        "(%",
+        ")",
+        "T",
+        "es",
+        "t",
+        "se",
+        "t",
+        "ac",
+        "cu",
+        "ra",
+        "cy",
+        "p",
+        "90",
+        "80",
+        "70",
+        "10\u22123",
+        "10\u22122",
+        "60"
+    ],
+    "meta_info": {
+        "create_time": "2021-03-05 16:24:11",
+        "version": "v1_naive_baseline",
+        "contact_info": {
+            "name": "Ting-Yao Hsu",
+            "email": "txh357@psu.edu"
+        }
+    }
+}

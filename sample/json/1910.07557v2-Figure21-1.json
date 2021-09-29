@@ -1,0 +1,20 @@
+{
+    "paper_ID": "1910.07557v2",
+    "figure_ID": "1910.07557v2-Figure21-1.png",
+    "figure_type": "Graph Plot",
+    "ori_caption": "Figure 21: Power trace for the NewHope-1024-CPA-PKE.Decrypt algorithm, measured from our test chip operating at 1.1 V and 12 MHz.",
+    "sentence_length": 1,
+    "title": "Sapphire: A Configurable Crypto-Processor for Post-Quantum Lattice-based\n  Protocols",
+    "level_0_normalized_caption": [
+        "power trace for the newhope-1024-cpa-pke.decrypt algorithm , measured from our test chip operating at 1.1 v and 12 mhz ."
+    ],
+    "ImgText": [],
+    "meta_info": {
+        "create_time": "2021-03-05 16:16:00",
+        "version": "v1_naive_baseline",
+        "contact_info": {
+            "name": "Ting-Yao Hsu",
+            "email": "txh357@psu.edu"
+        }
+    }
+}

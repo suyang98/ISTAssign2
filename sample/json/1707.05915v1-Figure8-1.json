@@ -1,0 +1,60 @@
+{
+    "paper_ID": "1707.05915v1",
+    "figure_ID": "1707.05915v1-Figure8-1.png",
+    "figure_type": "Graph Plot",
+    "ori_caption": "Fig. 8: Comparison of uplink sum-rate as a function of the number of BS antennas N between pilot assisted LMMSE estimation and LOS component channel as channel estimation.",
+    "sentence_length": 1,
+    "title": "Uplink Spectral Efficiency Analysis of Multi-Cell Multi-User Massive\n  MIMO over Correlated Ricean Channel",
+    "level_0_normalized_caption": [
+        "comparison of uplink sum-rate as a function of the number of bs antennas n between pilot assisted lmmse estimation and los component channel as channel estimation ."
+    ],
+    "ImgText": [
+        "MMSE",
+        "LOS",
+        "\u03d1=3dB",
+        "\u03d1=\u221220dB",
+        ")",
+        "l",
+        "u",
+        "se",
+        "an",
+        "ne",
+        "r",
+        "ch",
+        "it",
+        "pe",
+        "te",
+        "(b",
+        "\u2212",
+        "ra",
+        "S",
+        "um",
+        "Number",
+        "of",
+        "antennas",
+        "70",
+        "60",
+        "50",
+        "40",
+        "30",
+        "20",
+        "10",
+        "100",
+        "200",
+        "300",
+        "400",
+        "500",
+        "600",
+        "700",
+        "800",
+        "900"
+    ],
+    "meta_info": {
+        "create_time": "2021-03-05 16:16:46",
+        "version": "v1_naive_baseline",
+        "contact_info": {
+            "name": "Ting-Yao Hsu",
+            "email": "txh357@psu.edu"
+        }
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "paper_ID": "1707.05399v2",
+    "figure_ID": "1707.05399v2-Figure8-1.png",
+    "figure_type": "Graph Plot",
+    "ori_caption": "Fig. 8: Average latency of low-load accesses for various request sizes for the number of requests in the range of one to 350.",
+    "sentence_length": 1,
+    "title": "Performance Implications of NoCs on 3D-Stacked Memories: Insights from\n  the Hybrid Memory Cube",
+    "level_0_normalized_caption": [
+        "average latency of low-load accesses for various request sizes for the number of requests in the range of one to 350 ."
+    ],
+    "ImgText": [
+        "Linear",
+        "Increment",
+        "1",
+        "16B",
+        "32B",
+        "64B",
+        "128B",
+        "Number",
+        "of",
+        "Read",
+        "Requests",
+        "La",
+        "te",
+        "nc",
+        "y",
+        "(\u03bc",
+        "s)",
+        "0",
+        "50",
+        "100",
+        "150",
+        "200",
+        "250",
+        "300",
+        "0.5",
+        "1.0",
+        "1.5",
+        "2.0",
+        "2.5",
+        "3.0",
+        "3.5",
+        "4.0"
+    ],
+    "meta_info": {
+        "create_time": "2021-03-05 16:16:22",
+        "version": "v1_naive_baseline",
+        "contact_info": {
+            "name": "Ting-Yao Hsu",
+            "email": "txh357@psu.edu"
+        }
+    }
+}

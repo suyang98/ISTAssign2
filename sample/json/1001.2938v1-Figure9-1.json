@@ -1,0 +1,20 @@
+{
+    "paper_ID": "1001.2938v1",
+    "figure_ID": "1001.2938v1-Figure9-1.png",
+    "figure_type": "Graph Plot",
+    "ori_caption": "Fig. 9. Bandwidth allocation in the half-duplex relaying schemes with respect to the relay location.",
+    "sentence_length": 1,
+    "title": "Transmit Signal and Bandwidth Optimization in Multiple-Antenna Relay\n  Channels",
+    "level_0_normalized_caption": [
+        "bandwidth allocation in the half-duplex relaying schemes with respect to the relay location ."
+    ],
+    "ImgText": [],
+    "meta_info": {
+        "create_time": "2021-03-05 16:14:55",
+        "version": "v1_naive_baseline",
+        "contact_info": {
+            "name": "Ting-Yao Hsu",
+            "email": "txh357@psu.edu"
+        }
+    }
+}

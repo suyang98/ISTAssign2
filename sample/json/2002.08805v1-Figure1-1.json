@@ -1,0 +1,20 @@
+{
+    "paper_ID": "2002.08805v1",
+    "figure_ID": "2002.08805v1-Figure1-1.png",
+    "figure_type": "Graph Plot",
+    "ori_caption": "Figure 1: LRU vs. offline optimal algorithm.",
+    "sentence_length": 1,
+    "title": "PA-Cache: Learning-based Popularity-Aware Content Caching in Edge\n  Networks",
+    "level_0_normalized_caption": [
+        "lru vs. offline optimal algorithm ."
+    ],
+    "ImgText": [],
+    "meta_info": {
+        "create_time": "2021-03-05 16:16:19",
+        "version": "v1_naive_baseline",
+        "contact_info": {
+            "name": "Ting-Yao Hsu",
+            "email": "txh357@psu.edu"
+        }
+    }
+}

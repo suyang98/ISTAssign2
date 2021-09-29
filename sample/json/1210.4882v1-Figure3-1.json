@@ -1,0 +1,53 @@
+{
+    "paper_ID": "1210.4882v1",
+    "figure_ID": "1210.4882v1-Figure3-1.png",
+    "figure_type": "Graph Plot",
+    "ori_caption": "Fig. 3: Objective 1, Noisy Orders, m=10, n=10, p=0.6.",
+    "sentence_length": 1,
+    "title": "A Maximum Likelihood Approach For Selecting Sets of Alternatives",
+    "level_0_normalized_caption": [
+        "objective 1 , noisy orders , m=10 , n=10 , p=0.6 ."
+    ],
+    "ImgText": [
+        "k-approval",
+        "Plurality",
+        "Maximin",
+        "MLE-Sampling",
+        "Borda",
+        "Count",
+        "Unweighted",
+        "Outdegree",
+        "Kemeny",
+        "Value",
+        "of",
+        "k",
+        "ty",
+        "ab",
+        "ili",
+        "Pr",
+        "ob",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "1",
+        "0.9",
+        "0.8",
+        "0.7",
+        "0.6",
+        "0.5",
+        "0.4",
+        "0.3",
+        "0.2",
+        "0.1"
+    ],
+    "meta_info": {
+        "create_time": "2021-03-05 16:20:00",
+        "version": "v1_naive_baseline",
+        "contact_info": {
+            "name": "Ting-Yao Hsu",
+            "email": "txh357@psu.edu"
+        }
+    }
+}

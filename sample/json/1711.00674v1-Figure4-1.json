@@ -1,0 +1,45 @@
+{
+    "paper_ID": "1711.00674v1",
+    "figure_ID": "1711.00674v1-Figure4-1.png",
+    "figure_type": "Graph Plot",
+    "ori_caption": "Figure 4: Cumulative distribution function of the buffer size passed to the different receive functions. Half of the recv() calls use a buffer of 5 bytes or less.",
+    "sentence_length": 2,
+    "title": "TCPSnitch: Dissecting the Usage of the Socket API",
+    "level_0_normalized_caption": [
+        "cumulative distribution function of the buffer size passed to the different receive functions .",
+        "half of the recv ( ) calls use a buffer of 5 bytes or less ."
+    ],
+    "ImgText": [
+        "Buffer",
+        "size",
+        "CDF",
+        "read",
+        "recv",
+        "recvfrom",
+        "80",
+        "100",
+        "Pe",
+        "rc",
+        "en",
+        "ta",
+        "ge",
+        "60",
+        "40",
+        "20",
+        "0",
+        "100",
+        "101",
+        "102",
+        "103",
+        "104",
+        "Bytes"
+    ],
+    "meta_info": {
+        "create_time": "2021-03-05 16:25:29",
+        "version": "v1_naive_baseline",
+        "contact_info": {
+            "name": "Ting-Yao Hsu",
+            "email": "txh357@psu.edu"
+        }
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "paper_ID": "1409.7311v2",
+    "figure_ID": "1409.7311v2-Figure1-1.png",
+    "figure_type": "Graph Plot",
+    "ori_caption": "Fig. 1. (reproduced from [3]) The pattern frequency spectrum (exact: black, estimate: blue) of the Mammals dataset. The estimate is computed by fitting an isotonic regression curve through the grey points. The green curve shows the spectrum of a random data having the same column marginals.",
+    "sentence_length": 3,
+    "title": "Estimating the pattern frequency spectrum inside the browser",
+    "level_0_normalized_caption": [
+        "( reproduced from [ 3 ] ) the pattern frequency spectrum ( exact : black , estimate : blue ) of the mammals dataset .",
+        "the estimate is computed by fitting an isotonic regression curve through the grey points .",
+        "the green curve shows the spectrum of a random data having the same column marginals ."
+    ],
+    "ImgText": [
+        "g1",
+        "0)",
+        "t",
+        "(",
+        "lo",
+        "co",
+        "un",
+        "\u03c3",
+        "1e",
+        "+1",
+        "2",
+        "1e",
+        "+0",
+        "9",
+        "1e",
+        "+0",
+        "6",
+        "1e",
+        "+0",
+        "3",
+        "1e",
+        "+0",
+        "0",
+        "0",
+        "500",
+        "1000",
+        "1500",
+        "2000"
+    ],
+    "meta_info": {
+        "create_time": "2021-03-05 16:18:42",
+        "version": "v1_naive_baseline",
+        "contact_info": {
+            "name": "Ting-Yao Hsu",
+            "email": "txh357@psu.edu"
+        }
+    }
+}

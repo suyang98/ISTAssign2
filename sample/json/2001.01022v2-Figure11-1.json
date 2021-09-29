@@ -1,0 +1,30 @@
+{
+    "paper_ID": "2001.01022v2",
+    "figure_ID": "2001.01022v2-Figure11-1.png",
+    "figure_type": "Graph Plot",
+    "ori_caption": "Figure 11: Load-CMOD curves from the three-point bending test.",
+    "sentence_length": 1,
+    "title": "A phase field model for cohesive fracture in micropolar continua",
+    "level_0_normalized_caption": [
+        "load-cmod curves from the three-point bending test ."
+    ],
+    "ImgText": [
+        "0.4",
+        "0.3",
+        "0.2",
+        "0.1",
+        "0",
+        "1",
+        "2",
+        "3",
+        "0"
+    ],
+    "meta_info": {
+        "create_time": "2021-03-05 16:14:56",
+        "version": "v1_naive_baseline",
+        "contact_info": {
+            "name": "Ting-Yao Hsu",
+            "email": "txh357@psu.edu"
+        }
+    }
+}

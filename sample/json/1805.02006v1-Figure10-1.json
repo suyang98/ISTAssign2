@@ -1,0 +1,49 @@
+{
+    "paper_ID": "1805.02006v1",
+    "figure_ID": "1805.02006v1-Figure10-1.png",
+    "figure_type": "Graph Plot",
+    "ori_caption": "Fig. 10: Offloading ratio comparison between CGA and FGA.",
+    "sentence_length": 1,
+    "title": "Energy-delay-cost Tradeoff for Task Offloading in Imbalanced Edge Cloud\n  Based Computing",
+    "level_0_normalized_caption": [
+        "offloading ratio comparison between cga and fga ."
+    ],
+    "ImgText": [
+        "CGA",
+        "FGA",
+        "at",
+        "io",
+        "ng",
+        "R",
+        "oa",
+        "di",
+        "O",
+        "ffl",
+        "Number",
+        "of",
+        "MUs",
+        "1",
+        "0.9",
+        "0.8",
+        "0.7",
+        "0.6",
+        "0.5",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "0.4"
+    ],
+    "meta_info": {
+        "create_time": "2021-03-05 16:17:30",
+        "version": "v1_naive_baseline",
+        "contact_info": {
+            "name": "Ting-Yao Hsu",
+            "email": "txh357@psu.edu"
+        }
+    }
+}

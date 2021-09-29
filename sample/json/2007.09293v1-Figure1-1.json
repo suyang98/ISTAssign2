@@ -1,0 +1,20 @@
+{
+    "paper_ID": "2007.09293v1",
+    "figure_ID": "2007.09293v1-Figure1-1.png",
+    "figure_type": "Graph Plot",
+    "ori_caption": "Fig. 1: Decision region defined by expectatios value of the data points of the unidimentional case.",
+    "sentence_length": 1,
+    "title": "Quantum ensemble of trained classifiers",
+    "level_0_normalized_caption": [
+        "decision region defined by expectatios value of the data points of the unidimentional case ."
+    ],
+    "ImgText": [],
+    "meta_info": {
+        "create_time": "2021-03-05 16:15:15",
+        "version": "v1_naive_baseline",
+        "contact_info": {
+            "name": "Ting-Yao Hsu",
+            "email": "txh357@psu.edu"
+        }
+    }
+}

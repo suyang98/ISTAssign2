@@ -1,0 +1,57 @@
+{
+    "paper_ID": "1911.03681v2",
+    "figure_ID": "1911.03681v2-Figure6-1.png",
+    "figure_type": "Graph Plot",
+    "ori_caption": "Figure 6: Relation classification: Expected maximum macro F1 (dev set) as a function of the number of hyperparameter configurations.",
+    "sentence_length": 1,
+    "title": "E-BERT: Efficient-Yet-Effective Entity Embeddings for BERT",
+    "level_0_normalized_caption": [
+        "relation classification : expected maximum macro f1 ( dev set ) as a function of the number of hyperparameter configurations ."
+    ],
+    "ImgText": [
+        "E-BERT-replace",
+        "E-BERT-concat",
+        "original",
+        "BERT",
+        "Wikipedia2Vec-BERT-replace",
+        "Wikipedia2Vec-BERT-concat",
+        "F",
+        "1",
+        "ac",
+        "ro",
+        "um",
+        "m",
+        "ax",
+        "im",
+        "d",
+        "m",
+        "ec",
+        "te",
+        "E",
+        "xp",
+        "0.875",
+        "0.850",
+        "0.825",
+        "0.800",
+        "0.775",
+        "0.750",
+        "0.725",
+        "0",
+        "5",
+        "10",
+        "15",
+        "20",
+        "25",
+        "Number",
+        "of",
+        "configurations"
+    ],
+    "meta_info": {
+        "create_time": "2021-03-05 16:24:21",
+        "version": "v1_naive_baseline",
+        "contact_info": {
+            "name": "Ting-Yao Hsu",
+            "email": "txh357@psu.edu"
+        }
+    }
+}

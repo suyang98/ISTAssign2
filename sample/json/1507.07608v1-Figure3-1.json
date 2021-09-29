@@ -1,0 +1,20 @@
+{
+    "paper_ID": "1507.07608v1",
+    "figure_ID": "1507.07608v1-Figure3-1.png",
+    "figure_type": "Graph Plot",
+    "ori_caption": "Fig. 3. The allocated rates to the UEs ri(n) with number of iterations n when total rate R=100, and sigmodial-like utility function parameters are constant.",
+    "sentence_length": 1,
+    "title": "Resource Allocation in Cellular Systems for Applications with Random\n  Parameters",
+    "level_0_normalized_caption": [
+        "the allocated rates to the ues ri ( n ) with number of iterations n when total rate r=100 , and sigmodial-like utility function parameters are constant ."
+    ],
+    "ImgText": [],
+    "meta_info": {
+        "create_time": "2021-03-05 16:23:41",
+        "version": "v1_naive_baseline",
+        "contact_info": {
+            "name": "Ting-Yao Hsu",
+            "email": "txh357@psu.edu"
+        }
+    }
+}

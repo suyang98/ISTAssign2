@@ -1,0 +1,37 @@
+{
+    "paper_ID": "2009.01027v1",
+    "figure_ID": "2009.01027v1-Figure6-1.png",
+    "figure_type": "Graph Plot",
+    "ori_caption": "Figure 6: The training loss curve of the over-parameterized network on CIFAR-10 in S3 with different initial \u03b20.",
+    "sentence_length": 1,
+    "title": "DARTS-: Robustly Stepping out of Performance Collapse Without Indicators",
+    "level_0_normalized_caption": [
+        "the training loss curve of the over-parameterized network on cifar-10 in s3 with different initial \u03b20 ."
+    ],
+    "ImgText": [
+        "=1.0",
+        "=0.7",
+        "=0.4",
+        "=0.1",
+        "=0.0",
+        "CIFAR-10,",
+        "S3",
+        "Ltrain",
+        "1.5",
+        "1.0",
+        "0.5",
+        "0.0",
+        "0",
+        "20",
+        "40",
+        "epoch"
+    ],
+    "meta_info": {
+        "create_time": "2021-03-05 16:23:29",
+        "version": "v1_naive_baseline",
+        "contact_info": {
+            "name": "Ting-Yao Hsu",
+            "email": "txh357@psu.edu"
+        }
+    }
+}

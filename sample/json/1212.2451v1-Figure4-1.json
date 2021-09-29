@@ -1,0 +1,20 @@
+{
+    "paper_ID": "1212.2451v1",
+    "figure_ID": "1212.2451v1-Figure4-1.png",
+    "figure_type": "Graph Plot",
+    "ori_caption": "Figure 4 Computation overhead vs. Number of sensor nodes",
+    "sentence_length": 1,
+    "title": "RSAED: Robust and Secure Aggregation of Encrypted Data in Wireless\n  Sensor Networks",
+    "level_0_normalized_caption": [
+        "computation overhead vs. number of sensor nodes ."
+    ],
+    "ImgText": [],
+    "meta_info": {
+        "create_time": "2021-03-05 16:23:26",
+        "version": "v1_naive_baseline",
+        "contact_info": {
+            "name": "Ting-Yao Hsu",
+            "email": "txh357@psu.edu"
+        }
+    }
+}

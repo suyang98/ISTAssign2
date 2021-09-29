@@ -1,0 +1,55 @@
+{
+    "paper_ID": "1912.07768v1",
+    "figure_ID": "1912.07768v1-Figure4-1.png",
+    "figure_type": "Graph Plot",
+    "ori_caption": "Figure 4: Comparison between a conditional generator and a generator that outputs an image/label pair. We expected the latter \u201cdark knowledge\u201d approach to outperform the conditional generator, but that does not seem to be the case. Because initialization and training of the dark knowledge variant were more sensitive, we believe a more rigorous tuning of the process could lead to a different result.",
+    "sentence_length": 3,
+    "title": "Generative Teaching Networks: Accelerating Neural Architecture Search by\n  Learning to Generate Synthetic Training Data",
+    "level_0_normalized_caption": [
+        "comparison between a conditional generator and a generator that outputs an image/label pair .",
+        "we expected the latter \u201c dark knowledge \u201d approach to outperform the conditional generator , but that does not seem to be the case .",
+        "because initialization and training of the dark knowledge variant were more sensitive , we believe a more rigorous tuning of the process could lead to a different result ."
+    ],
+    "ImgText": [
+        "Real",
+        "Data",
+        "GTN",
+        "DK",
+        "cy",
+        "cu",
+        "ra",
+        "n",
+        "Ac",
+        "at",
+        "io",
+        "Va",
+        "lid",
+        "1.000",
+        "0.975",
+        "0.950",
+        "0.925",
+        "0.900",
+        "0.875",
+        "0.850",
+        "0.825",
+        "0.800",
+        "0",
+        "500",
+        "1000",
+        "1500",
+        "2000",
+        "2500",
+        "3000",
+        "3500",
+        "Outer-loop",
+        "Steps"
+    ],
+    "meta_info": {
+        "create_time": "2021-03-05 16:16:16",
+        "version": "v1_naive_baseline",
+        "contact_info": {
+            "name": "Ting-Yao Hsu",
+            "email": "txh357@psu.edu"
+        }
+    }
+}

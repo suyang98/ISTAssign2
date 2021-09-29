@@ -1,0 +1,49 @@
+{
+    "paper_ID": "1808.06304v2",
+    "figure_ID": "1808.06304v2-Figure2-1.png",
+    "figure_type": "Graph Plot",
+    "ori_caption": "Figure 2: Semantic parsing accuracies of the STAMP model on WikiSQL. The x-axis is the training data size in log-scale, and the y-axis includes two evaluation metrics Acclf and Accex.",
+    "sentence_length": 2,
+    "title": "Question Generation from SQL Queries Improves Neural Semantic Parsing",
+    "level_0_normalized_caption": [
+        "semantic parsing accuracies of the stamp model on wikisql .",
+        "the x-axis is the training data size in log-scale , and the y-axis includes two evaluation metrics acclf and accex ."
+    ],
+    "ImgText": [
+        "Execution",
+        "Accuracy",
+        "Logical",
+        "Form",
+        "Accuracy",
+        "ra",
+        "cy",
+        "Ac",
+        "cu",
+        "0.9",
+        "0.8",
+        "0.7",
+        "0.6",
+        "0.5",
+        "0.4",
+        "0.3",
+        "3",
+        "6",
+        "12",
+        "21",
+        "36",
+        "60",
+        "Number",
+        "of",
+        "examples",
+        "(in",
+        "thousands)"
+    ],
+    "meta_info": {
+        "create_time": "2021-03-05 16:21:30",
+        "version": "v1_naive_baseline",
+        "contact_info": {
+            "name": "Ting-Yao Hsu",
+            "email": "txh357@psu.edu"
+        }
+    }
+}

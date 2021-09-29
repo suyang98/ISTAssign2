@@ -1,0 +1,20 @@
+{
+    "paper_ID": "1611.05205v1",
+    "figure_ID": "1611.05205v1-Figure2-1.png",
+    "figure_type": "Graph Plot",
+    "ori_caption": "Figure 2: Plot of f\u0304 (t) for D = 2.",
+    "sentence_length": 1,
+    "title": "Search-and-Rescue Rendezvous",
+    "level_0_normalized_caption": [
+        "plot of f\u0304 ( t ) for d = ."
+    ],
+    "ImgText": [],
+    "meta_info": {
+        "create_time": "2021-03-05 16:15:12",
+        "version": "v1_naive_baseline",
+        "contact_info": {
+            "name": "Ting-Yao Hsu",
+            "email": "txh357@psu.edu"
+        }
+    }
+}

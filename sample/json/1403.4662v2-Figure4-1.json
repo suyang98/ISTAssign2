@@ -1,0 +1,63 @@
+{
+    "paper_ID": "1403.4662v2",
+    "figure_ID": "1403.4662v2-Figure4-1.png",
+    "figure_type": "Graph Plot",
+    "ori_caption": "Figure 4: RC network (solid) and EnergyPlus (dashed) simulation results for a step change in ambient temperature.",
+    "sentence_length": 1,
+    "title": "Model Predictive HVAC Control with Online Occupancy Model",
+    "level_0_normalized_caption": [
+        "rc network ( solid ) and energyplus ( dashed ) simulation results for a step change in ambient temperature ."
+    ],
+    "ImgText": [
+        "RC",
+        "Network",
+        "EnergyPlus",
+        "Ambient",
+        "\u00b0C",
+        ")",
+        "re",
+        "(",
+        "ra",
+        "tu",
+        "m",
+        "pe",
+        "r",
+        "te",
+        "e",
+        "ai",
+        "Z",
+        "on",
+        "Simulation",
+        "days",
+        "20",
+        "18",
+        "16",
+        "14",
+        "12",
+        "10",
+        "\u22121",
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
+    ],
+    "meta_info": {
+        "create_time": "2021-03-05 16:24:44",
+        "version": "v1_naive_baseline",
+        "contact_info": {
+            "name": "Ting-Yao Hsu",
+            "email": "txh357@psu.edu"
+        }
+    }
+}

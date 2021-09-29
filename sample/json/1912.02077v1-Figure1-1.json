@@ -1,0 +1,20 @@
+{
+    "paper_ID": "1912.02077v1",
+    "figure_ID": "1912.02077v1-Figure1-1.png",
+    "figure_type": "Graph Plot",
+    "ori_caption": "Figure 1. Document frequency of top 20 topic terms for the clusters identified by the PDC and the LDA algorithms, respectively.",
+    "sentence_length": 1,
+    "title": "PDC -- a probabilistic distributional clustering algorithm: a case study\n  on suicide articles in PubMed",
+    "level_0_normalized_caption": [
+        "document frequency of top 20 topic terms for the clusters identified by the pdc and the lda algorithms , respectively ."
+    ],
+    "ImgText": [],
+    "meta_info": {
+        "create_time": "2021-03-05 16:19:16",
+        "version": "v1_naive_baseline",
+        "contact_info": {
+            "name": "Ting-Yao Hsu",
+            "email": "txh357@psu.edu"
+        }
+    }
+}

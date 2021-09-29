@@ -1,0 +1,20 @@
+{
+    "paper_ID": "2005.10851v1",
+    "figure_ID": "2005.10851v1-Figure5-1.png",
+    "figure_type": "Graph Plot",
+    "ori_caption": "Fig. 5. Accuracy and Percentage of early exiting samples at the edge for CIFAR-100 dataset on Resnet-32",
+    "sentence_length": 1,
+    "title": "Conditionally Deep Hybrid Neural Networks Across Edge and Cloud",
+    "level_0_normalized_caption": [
+        "accuracy and percentage of early exiting samples at the edge for cifar-100 dataset on resnet-32 ."
+    ],
+    "ImgText": [],
+    "meta_info": {
+        "create_time": "2021-03-05 16:24:54",
+        "version": "v1_naive_baseline",
+        "contact_info": {
+            "name": "Ting-Yao Hsu",
+            "email": "txh357@psu.edu"
+        }
+    }
+}

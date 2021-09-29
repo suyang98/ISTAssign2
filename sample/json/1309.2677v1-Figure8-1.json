@@ -1,0 +1,57 @@
+{
+    "paper_ID": "1309.2677v1",
+    "figure_ID": "1309.2677v1-Figure8-1.png",
+    "figure_type": "Graph Plot",
+    "ori_caption": "FIG. 8. Scaling plot of the time to consensus for a well-mixed system with different number of groups and fixed group size. Inset: the horizontal scaling factor obtained by shifting the curves in order to obtain the master curve. For NG < 32, the scaling is different from the one for large NG due to finite-size effects. Other parameters: N = 4, T = 1, \u03bb = 0.01, h = 0.01.",
+    "sentence_length": 4,
+    "title": "Language change in a multiple group society",
+    "level_0_normalized_caption": [
+        "scaling plot of the time to consensus for a well-mixed system with different number of groups and fixed group size .",
+        "inset : the horizontal scaling factor obtained by shifting the curves in order to obtain the master curve .",
+        "for ng < 32 , the scaling is different from the one for large ng due to finite-size effects .",
+        "other parameters : n = 4 , t = 1 , \u03bb = 0.01 , h = 0.01 ."
+    ],
+    "ImgText": [
+        "NG",
+        "ho",
+        "riz",
+        ".s",
+        "ca",
+        "lin",
+        "g-",
+        "1",
+        "2",
+        "8",
+        "32",
+        "128512",
+        "1",
+        "1.5",
+        "2",
+        "2.5",
+        "NG=2",
+        "NG=8",
+        "NG=32",
+        "NG=128",
+        "NG=512",
+        "1-f",
+        "t",
+        "c",
+        "/N",
+        "G",
+        "2",
+        "10-5",
+        "10-3",
+        "10-1",
+        "109",
+        "107",
+        "105"
+    ],
+    "meta_info": {
+        "create_time": "2021-03-05 16:19:27",
+        "version": "v1_naive_baseline",
+        "contact_info": {
+            "name": "Ting-Yao Hsu",
+            "email": "txh357@psu.edu"
+        }
+    }
+}

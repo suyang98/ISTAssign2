@@ -1,0 +1,51 @@
+{
+    "paper_ID": "2003.03033v1",
+    "figure_ID": "2003.03033v1-Figure12-1.png",
+    "figure_type": "Graph Plot",
+    "ori_caption": "Figure 12: Accuracy vs theoretical speedup for ResNet-20 on CIFAR-10",
+    "sentence_length": 1,
+    "title": "What is the State of Neural Network Pruning?",
+    "level_0_normalized_caption": [
+        "accuracy vs theoretical speedup for resnet-20 on cifar-10 ."
+    ],
+    "ImgText": [
+        "Global",
+        "Weight",
+        "Layer",
+        "Weight",
+        "Global",
+        "Gradient",
+        "Layer",
+        "Gradient",
+        "Random",
+        "ResNet-20",
+        "on",
+        "CIFAR-10",
+        "ra",
+        "cy",
+        "Ac",
+        "cu",
+        "0.95",
+        "0.90",
+        "0.85",
+        "0.80",
+        "0.75",
+        "0.70",
+        "1",
+        "2",
+        "4",
+        "8",
+        "16",
+        "32",
+        "Theoretical",
+        "Speedup"
+    ],
+    "meta_info": {
+        "create_time": "2021-03-05 16:25:29",
+        "version": "v1_naive_baseline",
+        "contact_info": {
+            "name": "Ting-Yao Hsu",
+            "email": "txh357@psu.edu"
+        }
+    }
+}

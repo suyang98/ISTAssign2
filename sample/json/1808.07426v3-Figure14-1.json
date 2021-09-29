@@ -1,0 +1,27 @@
+{
+    "paper_ID": "1808.07426v3",
+    "figure_ID": "1808.07426v3-Figure14-1.png",
+    "figure_type": "Graph Plot",
+    "ori_caption": "Fig. 14 Plot of the intensity of the frictional effect as a function of \u03c1 , for a stopping density \u03c1max. \u00b5 (\u03c1) \u221d \u03c1max/(\u03c1max\u2212\u03c1).",
+    "sentence_length": 2,
+    "title": "Pedestrian Models based on Rational Behaviour",
+    "level_0_normalized_caption": [
+        "plot of the intensity of the frictional effect as a function of \u03c1 , for a stopping density \u03c1max .",
+        "\u00b5 ( \u03c1 ) \u221d \u03c1max/ ( \u03c1max\u2212\u03c1 ) ."
+    ],
+    "ImgText": [
+        ")",
+        "\u00b5",
+        "(\u03c1",
+        "\u03c1max",
+        "\u03c1"
+    ],
+    "meta_info": {
+        "create_time": "2021-03-05 16:21:52",
+        "version": "v1_naive_baseline",
+        "contact_info": {
+            "name": "Ting-Yao Hsu",
+            "email": "txh357@psu.edu"
+        }
+    }
+}

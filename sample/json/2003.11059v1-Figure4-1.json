@@ -1,0 +1,55 @@
+{
+    "paper_ID": "2003.11059v1",
+    "figure_ID": "2003.11059v1-Figure4-1.png",
+    "figure_type": "Graph Plot",
+    "ori_caption": "Figure 4: Performance comparison on the mortality prediction task with increasing amount of physiological time series and progress notes using 5 randomly generated trainvalidation-test splits. Bands correspond to 95% confidence interval around the mean.",
+    "sentence_length": 2,
+    "title": "Integrating Physiological Time Series and Clinical Notes with Deep\n  Learning for Improved ICU Mortality Prediction",
+    "level_0_normalized_caption": [
+        "performance comparison on the mortality prediction task with increasing amount of physiological time series and progress notes using 5 randomly generated trainvalidation-test splits .",
+        "bands correspond to 95 % confidence interval around the mean ."
+    ],
+    "ImgText": [
+        "Time-series",
+        "Late",
+        "Fusion",
+        "Progress",
+        "notes",
+        "ur",
+        "ve",
+        "OC",
+        "c",
+        "er",
+        "R",
+        "u",
+        "nd",
+        "Ar",
+        "ea",
+        "0.90",
+        "0.85",
+        "0.80",
+        "0.75",
+        "0.70",
+        "6",
+        "12",
+        "18",
+        "24",
+        "30",
+        "36",
+        "42",
+        "48",
+        "Hours",
+        "from",
+        "admission",
+        "(in",
+        "hrs)"
+    ],
+    "meta_info": {
+        "create_time": "2021-03-05 16:17:28",
+        "version": "v1_naive_baseline",
+        "contact_info": {
+            "name": "Ting-Yao Hsu",
+            "email": "txh357@psu.edu"
+        }
+    }
+}

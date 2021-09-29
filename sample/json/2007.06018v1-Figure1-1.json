@@ -1,0 +1,20 @@
+{
+    "paper_ID": "2007.06018v1",
+    "figure_ID": "2007.06018v1-Figure1-1.png",
+    "figure_type": "Graph Plot",
+    "ori_caption": "Figure 1: temperature curve for MLE, \u03c8-MLE and SeqGAN",
+    "sentence_length": 1,
+    "title": "Improving Maximum Likelihood Training for Text Generation with Density\n  Ratio Estimation",
+    "level_0_normalized_caption": [
+        "temperature curve for mle , \u03c8-mle and seqgan ."
+    ],
+    "ImgText": [],
+    "meta_info": {
+        "create_time": "2021-03-05 16:24:31",
+        "version": "v1_naive_baseline",
+        "contact_info": {
+            "name": "Ting-Yao Hsu",
+            "email": "txh357@psu.edu"
+        }
+    }
+}

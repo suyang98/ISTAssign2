@@ -1,0 +1,20 @@
+{
+    "paper_ID": "1908.08368v1",
+    "figure_ID": "1908.08368v1-Figure11-1.png",
+    "figure_type": "Graph Plot",
+    "ori_caption": "Fig. 11. The Result at a Frequency of 10000 pieces/batch",
+    "sentence_length": 1,
+    "title": "A General Data Renewal Model for Prediction Algorithms in Industrial\n  Data Analytics",
+    "level_0_normalized_caption": [
+        "the result at a frequency of 10000 pieces/batch ."
+    ],
+    "ImgText": [],
+    "meta_info": {
+        "create_time": "2021-03-05 16:19:31",
+        "version": "v1_naive_baseline",
+        "contact_info": {
+            "name": "Ting-Yao Hsu",
+            "email": "txh357@psu.edu"
+        }
+    }
+}

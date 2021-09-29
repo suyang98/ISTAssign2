@@ -1,0 +1,60 @@
+{
+    "paper_ID": "2009.09090v1",
+    "figure_ID": "2009.09090v1-Figure9-1.png",
+    "figure_type": "Graph Plot",
+    "ori_caption": "Figure 9: Probability of a Bucket having N balls \u2013 Estimated analytically (Prest ) and Observed (Probs)",
+    "sentence_length": 1,
+    "title": "MIRAGE: Mitigating Conflict-Based Cache Attacks with a Practical\n  Fully-Associative Design",
+    "level_0_normalized_caption": [
+        "probability of a bucket having n balls \u2013 estimated analytically ( prest ) and observed ( probs ) ."
+    ],
+    "ImgText": [
+        "Prest",
+        "Probs",
+        "ke",
+        "t",
+        "w",
+        "it",
+        "h",
+        "N",
+        "b",
+        "al",
+        "ls",
+        ")",
+        "10\u221235Pr",
+        ".(",
+        "B",
+        "uc",
+        "10\u221210",
+        "10\u221215",
+        "10\u221220",
+        "10\u221225",
+        "10\u221230",
+        "100",
+        "10\u22125",
+        "0",
+        "2",
+        "4",
+        "6",
+        "8",
+        "10",
+        "12",
+        "14",
+        "16",
+        "Number",
+        "of",
+        "Balls",
+        "(N)",
+        "in",
+        "a",
+        "Bucket"
+    ],
+    "meta_info": {
+        "create_time": "2021-03-05 16:20:41",
+        "version": "v1_naive_baseline",
+        "contact_info": {
+            "name": "Ting-Yao Hsu",
+            "email": "txh357@psu.edu"
+        }
+    }
+}

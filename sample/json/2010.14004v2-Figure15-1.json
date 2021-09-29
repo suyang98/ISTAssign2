@@ -1,0 +1,20 @@
+{
+    "paper_ID": "2010.14004v2",
+    "figure_ID": "2010.14004v2-Figure15-1.png",
+    "figure_type": "Graph Plot",
+    "ori_caption": "Figure 15: Czechia: fitting and forecasting from 10/11 with 5 wavelets",
+    "sentence_length": 1,
+    "title": "Epidemic Dynamics via Wavelet Theory and Machine Learning, with\n  Applications to Covid-19",
+    "level_0_normalized_caption": [
+        "czechia : fitting and forecasting from 10/11 with 5 wavelets ."
+    ],
+    "ImgText": [],
+    "meta_info": {
+        "create_time": "2021-03-05 16:19:20",
+        "version": "v1_naive_baseline",
+        "contact_info": {
+            "name": "Ting-Yao Hsu",
+            "email": "txh357@psu.edu"
+        }
+    }
+}

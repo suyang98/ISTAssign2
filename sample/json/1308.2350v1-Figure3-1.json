@@ -1,0 +1,37 @@
+{
+    "paper_ID": "1308.2350v1",
+    "figure_ID": "1308.2350v1-Figure3-1.png",
+    "figure_type": "Graph Plot",
+    "ori_caption": "Figure 3: Entropy of the system as it learns from natural stimuli.",
+    "sentence_length": 1,
+    "title": "Learning Features and their Transformations by Spatial and Temporal\n  Spherical Clustering",
+    "level_0_normalized_caption": [
+        "entropy of the system as it learns from natural stimuli ."
+    ],
+    "ImgText": [
+        "ro",
+        "py",
+        "E",
+        "nt",
+        "x",
+        "10",
+        "4Iterations",
+        "0",
+        "0.5",
+        "1",
+        "1.5",
+        "2",
+        "2.5",
+        "3",
+        "3.5",
+        "4"
+    ],
+    "meta_info": {
+        "create_time": "2021-03-05 16:23:16",
+        "version": "v1_naive_baseline",
+        "contact_info": {
+            "name": "Ting-Yao Hsu",
+            "email": "txh357@psu.edu"
+        }
+    }
+}

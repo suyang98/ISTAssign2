@@ -1,0 +1,39 @@
+{
+    "paper_ID": "1802.01239v2",
+    "figure_ID": "1802.01239v2-Figure3-1.png",
+    "figure_type": "Graph Plot",
+    "ori_caption": "Figure 3: SDE versus the sample size.",
+    "sentence_length": 1,
+    "title": "Counting and Sampling from Markov Equivalent DAGs Using Clique Trees",
+    "level_0_normalized_caption": [
+        "sde versus the sample size ."
+    ],
+    "ImgText": [
+        "p=10",
+        "p=20",
+        "p=30",
+        "SD",
+        "E",
+        "8",
+        "6",
+        "4",
+        "2",
+        "0",
+        "10",
+        "20",
+        "30",
+        "40",
+        "50",
+        "Sample",
+        "size",
+        "(N)"
+    ],
+    "meta_info": {
+        "create_time": "2021-03-05 16:24:00",
+        "version": "v1_naive_baseline",
+        "contact_info": {
+            "name": "Ting-Yao Hsu",
+            "email": "txh357@psu.edu"
+        }
+    }
+}

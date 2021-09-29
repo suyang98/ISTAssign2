@@ -1,0 +1,20 @@
+{
+    "paper_ID": "1705.07404v4",
+    "figure_ID": "1705.07404v4-Figure3.2-1.png",
+    "figure_type": "Graph Plot",
+    "ori_caption": "Figure 3.2: Effect of adding momentum to an optimizer",
+    "sentence_length": 1,
+    "title": "Convergence of backpropagation with momentum for network architectures\n  with skip connections",
+    "level_0_normalized_caption": [
+        "effect of adding momentum to an optimizer ."
+    ],
+    "ImgText": [],
+    "meta_info": {
+        "create_time": "2021-03-05 16:22:03",
+        "version": "v1_naive_baseline",
+        "contact_info": {
+            "name": "Ting-Yao Hsu",
+            "email": "txh357@psu.edu"
+        }
+    }
+}

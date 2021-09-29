@@ -1,0 +1,21 @@
+{
+    "paper_ID": "1911.11789v2",
+    "figure_ID": "1911.11789v2-Figure12-1.png",
+    "figure_type": "Graph Plot",
+    "ori_caption": "Figure 12: Performance with imperfect depth and pose. Our method using reconstructed depth and pose, ViewAL(RECON), outperforms the RAND baseline and performs only slightly worse than the variant using true depth and poses, ViewAL(TRUE).",
+    "sentence_length": 2,
+    "title": "ViewAL: Active Learning with Viewpoint Entropy for Semantic Segmentation",
+    "level_0_normalized_caption": [
+        "performance with imperfect depth and pose .",
+        "our method using reconstructed depth and pose , viewal ( recon ) , outperforms the rand baseline and performs only slightly worse than the variant using true depth and poses , viewal ( true ) ."
+    ],
+    "ImgText": [],
+    "meta_info": {
+        "create_time": "2021-03-05 16:18:48",
+        "version": "v1_naive_baseline",
+        "contact_info": {
+            "name": "Ting-Yao Hsu",
+            "email": "txh357@psu.edu"
+        }
+    }
+}

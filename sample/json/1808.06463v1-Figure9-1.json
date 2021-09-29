@@ -1,0 +1,20 @@
+{
+    "paper_ID": "1808.06463v1",
+    "figure_ID": "1808.06463v1-Figure9-1.png",
+    "figure_type": "Graph Plot",
+    "ori_caption": "Figure 9- Relative path of the smartphone from the vehicle perspective.",
+    "sentence_length": 1,
+    "title": "Implementation and Evaluation of a Cooperative Vehicle-to-Pedestrian\n  Safety Application",
+    "level_0_normalized_caption": [
+        "relative path of the smartphone from the vehicle perspective ."
+    ],
+    "ImgText": [],
+    "meta_info": {
+        "create_time": "2021-03-05 16:21:32",
+        "version": "v1_naive_baseline",
+        "contact_info": {
+            "name": "Ting-Yao Hsu",
+            "email": "txh357@psu.edu"
+        }
+    }
+}

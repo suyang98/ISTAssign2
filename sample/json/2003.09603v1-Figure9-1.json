@@ -1,0 +1,52 @@
+{
+    "paper_ID": "2003.09603v1",
+    "figure_ID": "2003.09603v1-Figure9-1.png",
+    "figure_type": "Graph Plot",
+    "ori_caption": "Figure 9: Random versus selective masking with different masking rates on WikiText-2.",
+    "sentence_length": 1,
+    "title": "Dynamic Sampling and Selective Masking for Communication-Efficient\n  Federated Learning",
+    "level_0_normalized_caption": [
+        "random versus selective masking with different masking rates on wikitext-2 ."
+    ],
+    "ImgText": [
+        "Random",
+        "Selective",
+        "T",
+        "es",
+        "ti",
+        "n",
+        "g",
+        "p",
+        "er",
+        "p",
+        "le",
+        "x",
+        "it",
+        "y",
+        "Masking",
+        "rate",
+        "160",
+        "150",
+        "140",
+        "130",
+        "120",
+        "110",
+        "100",
+        "90",
+        "0",
+        "0.2",
+        "0.4",
+        "0.6",
+        "0.8",
+        "1",
+        "80"
+    ],
+    "meta_info": {
+        "create_time": "2021-03-05 16:16:51",
+        "version": "v1_naive_baseline",
+        "contact_info": {
+            "name": "Ting-Yao Hsu",
+            "email": "txh357@psu.edu"
+        }
+    }
+}

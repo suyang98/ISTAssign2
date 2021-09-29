@@ -1,0 +1,35 @@
+{
+    "paper_ID": "1209.3126v1",
+    "figure_ID": "1209.3126v1-Figure10-1.png",
+    "figure_type": "Graph Plot",
+    "ori_caption": "Figure 10: Scatter plot of \u3008Fresa\u3009 mean vs. Ultra-stemming using n first letters (corpus Medicina Cl\u00ednica, Cortex summarizer).",
+    "sentence_length": 1,
+    "title": "Beyond Stemming and Lemmatization: Ultra-stemming to Improve Automatic\n  Text Summarization",
+    "level_0_normalized_caption": [
+        "scatter plot of \u3008fresa\u3009 mean vs. ultra-stemming using n first letters ( corpus medicina cl\u00ednica , cortex summarizer ) ."
+    ],
+    "ImgText": [
+        "*",
+        "'",
+        "(",
+        ")",
+        "%",
+        "&'",
+        "%'",
+        "(",
+        "'",
+        "'",
+        "!",
+        "\"",
+        "#",
+        "$"
+    ],
+    "meta_info": {
+        "create_time": "2021-03-05 16:17:48",
+        "version": "v1_naive_baseline",
+        "contact_info": {
+            "name": "Ting-Yao Hsu",
+            "email": "txh357@psu.edu"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "paper_ID": "2010.05024v1",
+    "figure_ID": "2010.05024v1-Figure4-1.png",
+    "figure_type": "Graph Plot",
+    "ori_caption": "Fig. 4. Standard deviation of the value functions in different transition probability cases",
+    "sentence_length": 1,
+    "title": "Reinforcement Learning on Computational Resource Allocation of\n  Cloud-based Wireless Networks",
+    "level_0_normalized_caption": [
+        "standard deviation of the value functions in different transition probability cases ."
+    ],
+    "ImgText": [],
+    "meta_info": {
+        "create_time": "2021-03-05 16:23:30",
+        "version": "v1_naive_baseline",
+        "contact_info": {
+            "name": "Ting-Yao Hsu",
+            "email": "txh357@psu.edu"
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "paper_ID": "2011.09246v1",
+    "figure_ID": "2011.09246v1-Figure5-1.png",
+    "figure_type": "Graph Plot",
+    "ori_caption": "Fig. 5: Best result for 10 simulation runs using the ICO.",
+    "sentence_length": 1,
+    "title": "Experimental Study on Reinforcement Learning-based Control of an Acrobot",
+    "level_0_normalized_caption": [
+        "best result for 10 simulation runs using the ico ."
+    ],
+    "ImgText": [
+        "LCICO",
+        "LC30,ICO",
+        "ar",
+        "d",
+        "R",
+        "ew",
+        "Episode",
+        "0",
+        "\u22122",
+        "\u22124",
+        "\u22126",
+        "\u22128",
+        "50",
+        "100",
+        "150",
+        "200",
+        "250",
+        "300",
+        "\u221210"
+    ],
+    "meta_info": {
+        "create_time": "2021-03-05 16:23:40",
+        "version": "v1_naive_baseline",
+        "contact_info": {
+            "name": "Ting-Yao Hsu",
+            "email": "txh357@psu.edu"
+        }
+    }
+}

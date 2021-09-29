@@ -1,0 +1,20 @@
+{
+    "paper_ID": "2011.04556v1",
+    "figure_ID": "2011.04556v1-Figure2-1.png",
+    "figure_type": "Graph Plot",
+    "ori_caption": "Figure 2: Right prediction count under different grid sizes",
+    "sentence_length": 1,
+    "title": "Masked Face Image Classification with Sparse Representation based on\n  Majority Voting Mechanism",
+    "level_0_normalized_caption": [
+        "right prediction count under different grid sizes ."
+    ],
+    "ImgText": [],
+    "meta_info": {
+        "create_time": "2021-03-05 16:25:35",
+        "version": "v1_naive_baseline",
+        "contact_info": {
+            "name": "Ting-Yao Hsu",
+            "email": "txh357@psu.edu"
+        }
+    }
+}

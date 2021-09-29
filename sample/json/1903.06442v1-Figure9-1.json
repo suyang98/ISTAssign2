@@ -1,0 +1,54 @@
+{
+    "paper_ID": "1903.06442v1",
+    "figure_ID": "1903.06442v1-Figure9-1.png",
+    "figure_type": "Graph Plot",
+    "ori_caption": "Fig. 9. Delivery latency versus the file size S.",
+    "sentence_length": 1,
+    "title": "Cloud-Edge Coordinated Processing: Low-Latency Multicasting Transmission",
+    "level_0_normalized_caption": [
+        "delivery latency versus the file size s ."
+    ],
+    "ImgText": [
+        "FCBT",
+        "Scheme",
+        "TSWC",
+        "Scheme",
+        "PCBT",
+        "Scheme",
+        "PCPT",
+        "Scheme",
+        "JCEO",
+        "Scheme",
+        "(",
+        "s)",
+        "7",
+        "6",
+        "5",
+        "4",
+        "3",
+        "2",
+        "1",
+        "0",
+        "0.2",
+        "0.4",
+        "0.6",
+        "0.8",
+        "1",
+        "1.2",
+        "1.4",
+        "1.6",
+        "1.8",
+        "File",
+        "Size",
+        "S",
+        "(nats)"
+    ],
+    "meta_info": {
+        "create_time": "2021-03-05 16:17:36",
+        "version": "v1_naive_baseline",
+        "contact_info": {
+            "name": "Ting-Yao Hsu",
+            "email": "txh357@psu.edu"
+        }
+    }
+}

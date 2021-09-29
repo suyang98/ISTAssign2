@@ -1,0 +1,44 @@
+{
+    "paper_ID": "1509.09130v1",
+    "figure_ID": "1509.09130v1-Figure8-1.png",
+    "figure_type": "Graph Plot",
+    "ori_caption": "Figure 8: Precision-at-N for N varying in 3-30. The results are averaged over 1,000 users randomly selected among the ML10M database.",
+    "sentence_length": 1,
+    "title": "Learning From Missing Data Using Selection Bias in Movie Recommendation",
+    "level_0_normalized_caption": [
+        "precision-at-n for n varying in 3-30. the results are averaged over 1,000 users randomly selected among the ml10m database ."
+    ],
+    "ImgText": [
+        "SB",
+        "LS",
+        "LS",
+        "thresh.",
+        "PopRank",
+        "Pr",
+        "ec",
+        "@",
+        "N",
+        "0.25",
+        "0.20",
+        "0.15",
+        "0.10",
+        "0.05",
+        "0.00",
+        "0",
+        "5",
+        "10",
+        "15",
+        "20",
+        "25",
+        "30",
+        "N"
+    ],
+    "meta_info": {
+        "create_time": "2021-03-05 16:15:47",
+        "version": "v1_naive_baseline",
+        "contact_info": {
+            "name": "Ting-Yao Hsu",
+            "email": "txh357@psu.edu"
+        }
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "paper_ID": "1702.01005v2",
+    "figure_ID": "1702.01005v2-Figure8-1.png",
+    "figure_type": "Graph Plot",
+    "ori_caption": "Figure 8: Comparison between KPCA (with eigs) and online KRIGA in terms of running time on an entire movie sampled in 10 FPS.",
+    "sentence_length": 1,
+    "title": "Intrinsic Grassmann Averages for Online Linear, Robust and Nonlinear\n  Subspace Learning",
+    "level_0_normalized_caption": [
+        "comparison between kpca ( with eigs ) and online kriga in terms of running time on an entire movie sampled in 10 fps ."
+    ],
+    "ImgText": [
+        "KPCA(eigs)",
+        "KRIGA",
+        ")",
+        "e",
+        "(s",
+        "T",
+        "im",
+        "100",
+        "80",
+        "60",
+        "40",
+        "20",
+        "0",
+        "#",
+        "of",
+        "frames",
+        "10",
+        "4",
+        "0",
+        "0.5",
+        "1",
+        "1.5",
+        "2"
+    ],
+    "meta_info": {
+        "create_time": "2021-03-05 16:20:35",
+        "version": "v1_naive_baseline",
+        "contact_info": {
+            "name": "Ting-Yao Hsu",
+            "email": "txh357@psu.edu"
+        }
+    }
+}

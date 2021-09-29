@@ -1,0 +1,20 @@
+{
+    "paper_ID": "2004.04827v1",
+    "figure_ID": "2004.04827v1-Figure1-1.png",
+    "figure_type": "Graph Plot",
+    "ori_caption": "Fig. 1. Curve-fitting solution describing non-use behavior",
+    "sentence_length": 1,
+    "title": "Methods for Generating Typologies of Non/use",
+    "level_0_normalized_caption": [
+        "curve-fitting solution describing non-use behavior ."
+    ],
+    "ImgText": [],
+    "meta_info": {
+        "create_time": "2021-03-05 16:20:56",
+        "version": "v1_naive_baseline",
+        "contact_info": {
+            "name": "Ting-Yao Hsu",
+            "email": "txh357@psu.edu"
+        }
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "paper_ID": "1912.11847v1",
+    "figure_ID": "1912.11847v1-Figure3-1.png",
+    "figure_type": "Graph Plot",
+    "ori_caption": "Fig. 3. PAoI versus cache size under different caching strategies.",
+    "sentence_length": 1,
+    "title": "Edge Caching with Real-Time Guarantees",
+    "level_0_normalized_caption": [
+        "paoi versus cache size under different caching strategies ."
+    ],
+    "ImgText": [
+        "Most",
+        "Popular",
+        "Content",
+        "Unifrom",
+        "Caching",
+        "Random",
+        "caching",
+        "15",
+        "15.5",
+        "P",
+        "ea",
+        "k",
+        "A",
+        "oI",
+        "14.5",
+        "14",
+        "13.5",
+        "13",
+        "12.5",
+        "12",
+        "11.5",
+        "11",
+        "10.5",
+        "Cache",
+        "Size",
+        "15",
+        "20",
+        "25",
+        "30"
+    ],
+    "meta_info": {
+        "create_time": "2021-03-05 16:24:13",
+        "version": "v1_naive_baseline",
+        "contact_info": {
+            "name": "Ting-Yao Hsu",
+            "email": "txh357@psu.edu"
+        }
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "paper_ID": "1911.07316v2",
+    "figure_ID": "1911.07316v2-Figure5-1.png",
+    "figure_type": "Graph Plot",
+    "ori_caption": "Fig. 5. NMSE of distortion variance estimation in dB for K = 10 UEs and 3rd-order non-linear distortion with QPSK.",
+    "sentence_length": 1,
+    "title": "Channel Estimation in Massive MIMO under Hardware Non-Linearities:\n  Bayesian Methods versus Deep Learning",
+    "level_0_normalized_caption": [
+        "nmse of distortion variance estimation in db for k = 10 ues and 3rd-order non-linear distortion with qpsk ."
+    ],
+    "ImgText": [
+        "LMMSE-Logarithm",
+        "LMMSE-Linear",
+        "Deep",
+        "Learning",
+        "C",
+        "D",
+        "F",
+        "1.0",
+        "0.8",
+        "0.6",
+        "0.4",
+        "0.2",
+        "0.0",
+        "NMSE",
+        "(dB)",
+        "\u221225",
+        "\u221220",
+        "\u221215",
+        "\u221210",
+        "\u22125",
+        "0",
+        "5"
+    ],
+    "meta_info": {
+        "create_time": "2021-03-05 16:16:16",
+        "version": "v1_naive_baseline",
+        "contact_info": {
+            "name": "Ting-Yao Hsu",
+            "email": "txh357@psu.edu"
+        }
+    }
+}

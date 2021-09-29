@@ -1,0 +1,60 @@
+{
+    "paper_ID": "1906.01602v1",
+    "figure_ID": "1906.01602v1-Figure3-1.png",
+    "figure_type": "Graph Plot",
+    "ori_caption": "Fig. 3: Variation in critical density with the target MSE for different inference rates.",
+    "sentence_length": 1,
+    "title": "On Provisioning Cellular Networks for Distributed Inference",
+    "level_0_normalized_caption": [
+        "variation in critical density with the target mse for different inference rates ."
+    ],
+    "ImgText": [
+        "rmin",
+        "=",
+        "0.1",
+        "rmin",
+        "=",
+        "0.2",
+        "rmin",
+        "=",
+        "0.5",
+        "si",
+        "ty",
+        "d",
+        "en",
+        "ic",
+        "al",
+        "cr",
+        "it",
+        "iz",
+        "ed",
+        "m",
+        "al",
+        "n",
+        "or",
+        "1.4",
+        "1.2",
+        "1.0",
+        "0.8",
+        "0.6",
+        "0.4",
+        "0.2",
+        "0.0",
+        "1.1",
+        "1.2",
+        "1.3",
+        "1.4",
+        "1.5",
+        "normalized",
+        "target",
+        "mse"
+    ],
+    "meta_info": {
+        "create_time": "2021-03-05 16:23:11",
+        "version": "v1_naive_baseline",
+        "contact_info": {
+            "name": "Ting-Yao Hsu",
+            "email": "txh357@psu.edu"
+        }
+    }
+}

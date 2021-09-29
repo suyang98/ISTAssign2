@@ -1,0 +1,53 @@
+{
+    "paper_ID": "2006.11108v1",
+    "figure_ID": "2006.11108v1-Figure7-1.png",
+    "figure_type": "Graph Plot",
+    "ori_caption": "Fig. 7. Manipulated valve positions by the RL agent for the 80bar nominal start-up. The action clearly changes at t = 2.6 s, which is the time when the firing of turbine starter stops.",
+    "sentence_length": 2,
+    "title": "A Reinforcement Learning Approach for Transient Control of Liquid Rocket\n  Engines",
+    "level_0_normalized_caption": [
+        "manipulated valve positions by the rl agent for the 80bar nominal start-up .",
+        "the action clearly changes at t = 2.6 s , which is the time when the firing of turbine starter stops ."
+    ],
+    "ImgText": [
+        "VGO",
+        "VGH",
+        "VGC",
+        "(-",
+        ")",
+        "ti",
+        "o",
+        "n",
+        "o",
+        "si",
+        "e",
+        "P",
+        "V",
+        "a",
+        "lv",
+        "1.0",
+        "0.8",
+        "0.6",
+        "0.4",
+        "0.2",
+        "0.0",
+        "Time",
+        "(s)",
+        "1.5",
+        "2.0",
+        "2.5",
+        "3.0",
+        "3.5",
+        "4.0",
+        "4.5",
+        "5.0"
+    ],
+    "meta_info": {
+        "create_time": "2021-03-05 16:25:25",
+        "version": "v1_naive_baseline",
+        "contact_info": {
+            "name": "Ting-Yao Hsu",
+            "email": "txh357@psu.edu"
+        }
+    }
+}

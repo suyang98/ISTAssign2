@@ -1,0 +1,44 @@
+{
+    "paper_ID": "1307.6512v1",
+    "figure_ID": "1307.6512v1-Figure8-1.png",
+    "figure_type": "Graph Plot",
+    "ori_caption": "Fig. 8. Divergence of minimax quantizer for\u00b5 = 1, \u03c32 = 1, c10 = 10, c01 = 1.",
+    "sentence_length": 1,
+    "title": "Optimal Grouping for Group Minimax Hypothesis Testing",
+    "level_0_normalized_caption": [
+        "divergence of minimax quantizer for\u00b5 = 1 , \u03c32 = 1 , c10 = 10 , c01 = 1 ."
+    ],
+    "ImgText": [
+        "0",
+        "))",
+        "4",
+        "(p",
+        "0",
+        "\u2016q",
+        "d",
+        "(p",
+        "p0",
+        "0.035",
+        "0.03",
+        "0.025",
+        "0.02",
+        "0.015",
+        "0.01",
+        "0.005",
+        "0",
+        "0.2",
+        "0.4",
+        "0.6",
+        "0.8",
+        "1",
+        "0"
+    ],
+    "meta_info": {
+        "create_time": "2021-03-05 16:23:03",
+        "version": "v1_naive_baseline",
+        "contact_info": {
+            "name": "Ting-Yao Hsu",
+            "email": "txh357@psu.edu"
+        }
+    }
+}

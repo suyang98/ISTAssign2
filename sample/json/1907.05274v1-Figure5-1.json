@@ -1,0 +1,22 @@
+{
+    "paper_ID": "1907.05274v1",
+    "figure_ID": "1907.05274v1-Figure5-1.png",
+    "figure_type": "Graph Plot",
+    "ori_caption": "Fig. 5. We purposely rotate the images from MNIST test dataset from -30 degrees to +30 degrees as the input images. Affine Disentangled GAN (ADISGAN) has achieved over 98 percent accuracy through all rotated degrees. It has less than 1 percent accuracy difference with the model trained on rotational augmented dataset.",
+    "sentence_length": 3,
+    "title": "Affine Disentangled GAN for Interpretable and Robust AV Perception",
+    "level_0_normalized_caption": [
+        "we purposely rotate the images from mnist test dataset from -30 degrees to +30 degrees as the input images .",
+        "affine disentangled gan ( adisgan ) has achieved over 98 percent accuracy through all rotated degrees .",
+        "it has less than 1 percent accuracy difference with the model trained on rotational augmented dataset ."
+    ],
+    "ImgText": [],
+    "meta_info": {
+        "create_time": "2021-03-05 16:15:30",
+        "version": "v1_naive_baseline",
+        "contact_info": {
+            "name": "Ting-Yao Hsu",
+            "email": "txh357@psu.edu"
+        }
+    }
+}

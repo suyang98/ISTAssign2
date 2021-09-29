@@ -1,0 +1,20 @@
+{
+    "paper_ID": "1606.08365v1",
+    "figure_ID": "1606.08365v1-Figure10-1.png",
+    "figure_type": "Graph Plot",
+    "ori_caption": "Fig. 10. PDR of the East and South legs of the Plymouth-Green intersection",
+    "sentence_length": 1,
+    "title": "Empirical Study of DSRC Performance Based on Safety Pilot Model\n  Deployment Data",
+    "level_0_normalized_caption": [
+        "pdr of the east and south legs of the plymouth-green intersection ."
+    ],
+    "ImgText": [],
+    "meta_info": {
+        "create_time": "2021-03-05 16:19:33",
+        "version": "v1_naive_baseline",
+        "contact_info": {
+            "name": "Ting-Yao Hsu",
+            "email": "txh357@psu.edu"
+        }
+    }
+}

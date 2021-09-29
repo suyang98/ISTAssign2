@@ -1,0 +1,20 @@
+{
+    "paper_ID": "2007.02832v1",
+    "figure_ID": "2007.02832v1-Figure8-1.png",
+    "figure_type": "Graph Plot",
+    "ori_caption": "Figure 8. Density modeling on Pointmaze.",
+    "sentence_length": 1,
+    "title": "Maximum Entropy Gain Exploration for Long Horizon Multi-goal\n  Reinforcement Learning",
+    "level_0_normalized_caption": [
+        "density modeling on pointmaze ."
+    ],
+    "ImgText": [],
+    "meta_info": {
+        "create_time": "2021-03-05 16:18:34",
+        "version": "v1_naive_baseline",
+        "contact_info": {
+            "name": "Ting-Yao Hsu",
+            "email": "txh357@psu.edu"
+        }
+    }
+}

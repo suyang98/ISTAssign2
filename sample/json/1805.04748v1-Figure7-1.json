@@ -1,0 +1,20 @@
+{
+    "paper_ID": "1805.04748v1",
+    "figure_ID": "1805.04748v1-Figure7-1.png",
+    "figure_type": "Graph Plot",
+    "ori_caption": "Figure 7: Comparison of RLOpt convergence to the maximum against the convergence of random search (success metric).",
+    "sentence_length": 1,
+    "title": "Towards Autonomous Reinforcement Learning: Automatic Setting of\n  Hyper-parameters using Bayesian Optimization",
+    "level_0_normalized_caption": [
+        "comparison of rlopt convergence to the maximum against the convergence of random search ( success metric ) ."
+    ],
+    "ImgText": [],
+    "meta_info": {
+        "create_time": "2021-03-05 16:18:50",
+        "version": "v1_naive_baseline",
+        "contact_info": {
+            "name": "Ting-Yao Hsu",
+            "email": "txh357@psu.edu"
+        }
+    }
+}

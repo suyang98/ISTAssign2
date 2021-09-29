@@ -1,0 +1,23 @@
+{
+    "paper_ID": "1510.06702v2",
+    "figure_ID": "1510.06702v2-Figure2-1.png",
+    "figure_type": "Graph Plot",
+    "ori_caption": "Figure 2: Velocity as a function of density with the Daganzo fundamental diagram (c.f. (3)). The function is constant for \u03c1 < \u03c1c and has a hyperbolic shape for \u03c1 > \u03c1c. The function is not injective in the region \u03c1 < \u03c1c.",
+    "sentence_length": 4,
+    "title": "Fusing Loop and GPS Probe Measurements to Estimate Freeway Density",
+    "level_0_normalized_caption": [
+        "velocity as a function of density with the daganzo fundamental diagram ( c.f .",
+        "( 3 ) ) .",
+        "the function is constant for \u03c1 < \u03c1c and has a hyperbolic shape for \u03c1 > \u03c1c .",
+        "the function is not injective in the region \u03c1 < \u03c1c ."
+    ],
+    "ImgText": [],
+    "meta_info": {
+        "create_time": "2021-03-05 16:24:42",
+        "version": "v1_naive_baseline",
+        "contact_info": {
+            "name": "Ting-Yao Hsu",
+            "email": "txh357@psu.edu"
+        }
+    }
+}

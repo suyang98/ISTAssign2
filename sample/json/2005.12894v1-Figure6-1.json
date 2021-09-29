@@ -1,0 +1,20 @@
+{
+    "paper_ID": "2005.12894v1",
+    "figure_ID": "2005.12894v1-Figure6-1.png",
+    "figure_type": "Graph Plot",
+    "ori_caption": "Fig. 6: Rate-capacity performance of proposed scheme with K = 8, L = 4,M = 8, \u03c1 = 15 dB, optimal N .",
+    "sentence_length": 1,
+    "title": "Dimension Reduction-based Signal Compression for Uplink Distributed MIMO\n  C-RAN with Limited Fronthaul Capacity",
+    "level_0_normalized_caption": [
+        "rate-capacity performance of proposed scheme with k = 8 , l = 4 , m = 8 , \u03c1 = 15 db , optimal n ."
+    ],
+    "ImgText": [],
+    "meta_info": {
+        "create_time": "2021-03-05 16:18:37",
+        "version": "v1_naive_baseline",
+        "contact_info": {
+            "name": "Ting-Yao Hsu",
+            "email": "txh357@psu.edu"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "paper_ID": "1301.6230v1",
+    "figure_ID": "1301.6230v1-Figure19-1.png",
+    "figure_type": "Graph Plot",
+    "ori_caption": "Figure 19. The state \ud835\udc652 of identified plant and model ?\u0302?2.",
+    "sentence_length": 1,
+    "title": "Numerical homotopy continuation for control and online identification of\n  nonlinear systems: the survey of selected results",
+    "level_0_normalized_caption": [
+        "the state \ud835\udc652 of identified plant and model ? \u0302 ? 2 ."
+    ],
+    "ImgText": [],
+    "meta_info": {
+        "create_time": "2021-03-05 16:21:53",
+        "version": "v1_naive_baseline",
+        "contact_info": {
+            "name": "Ting-Yao Hsu",
+            "email": "txh357@psu.edu"
+        }
+    }
+}

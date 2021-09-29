@@ -1,0 +1,21 @@
+{
+    "paper_ID": "1907.07718v2",
+    "figure_ID": "1907.07718v2-Figure7-1.png",
+    "figure_type": "Graph Plot",
+    "ori_caption": "Fig. 7: Control input comparison between the minimally invasive sequencing framework proposed in this paper (red) and a sequencing based on rendezvous as gluing behavior (blue). Solid lines represent the mean of the control input across all robots, while shaded regions represent the interval between minimum and maximum control input.",
+    "sentence_length": 2,
+    "title": "A Sequential Composition Framework for Coordinating Multi-Robot\n  Behaviors",
+    "level_0_normalized_caption": [
+        "control input comparison between the minimally invasive sequencing framework proposed in this paper ( red ) and a sequencing based on rendezvous as gluing behavior ( blue ) .",
+        "solid lines represent the mean of the control input across all robots , while shaded regions represent the interval between minimum and maximum control input ."
+    ],
+    "ImgText": [],
+    "meta_info": {
+        "create_time": "2021-03-05 16:16:24",
+        "version": "v1_naive_baseline",
+        "contact_info": {
+            "name": "Ting-Yao Hsu",
+            "email": "txh357@psu.edu"
+        }
+    }
+}

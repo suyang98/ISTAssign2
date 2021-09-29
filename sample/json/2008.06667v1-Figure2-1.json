@@ -1,0 +1,20 @@
+{
+    "paper_ID": "2008.06667v1",
+    "figure_ID": "2008.06667v1-Figure2-1.png",
+    "figure_type": "Graph Plot",
+    "ori_caption": "Figure 2: An example of CNN outputs for the audio file \u201cHappy liuchanhg 382.wav\u201d from the CASIA corpus.",
+    "sentence_length": 1,
+    "title": "Advancing Multiple Instance Learning with Attention Modeling for\n  Categorical Speech Emotion Recognition",
+    "level_0_normalized_caption": [
+        "an example of cnn outputs for the audio file \u201c happy liuchanhg 38.wav \u201d from the casia corpus ."
+    ],
+    "ImgText": [],
+    "meta_info": {
+        "create_time": "2021-03-05 16:16:00",
+        "version": "v1_naive_baseline",
+        "contact_info": {
+            "name": "Ting-Yao Hsu",
+            "email": "txh357@psu.edu"
+        }
+    }
+}

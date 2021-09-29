@@ -1,0 +1,34 @@
+{
+    "paper_ID": "1807.06724v1",
+    "figure_ID": "1807.06724v1-Figure6.3-1.png",
+    "figure_type": "Graph Plot",
+    "ori_caption": "Figure 6.3: The door sensor generates a packet as soon as it detects the door is open. The spike in the fast Fourier transform of the analog signal shows a single transmission using OOK modulation.",
+    "sentence_length": 2,
+    "title": "Addressing Security and Privacy Challenges in Internet of Things",
+    "level_0_normalized_caption": [
+        "the door sensor generates a packet as soon as it detects the door is open .",
+        "the spike in the fast fourier transform of the analog signal shows a single transmission using ook modulation ."
+    ],
+    "ImgText": [
+        "FFT",
+        "Plot",
+        "Frequency",
+        "(MHz)",
+        "dB",
+        ")",
+        "de",
+        "(",
+        "pl",
+        "itu",
+        "A",
+        "m"
+    ],
+    "meta_info": {
+        "create_time": "2021-03-05 16:25:39",
+        "version": "v1_naive_baseline",
+        "contact_info": {
+            "name": "Ting-Yao Hsu",
+            "email": "txh357@psu.edu"
+        }
+    }
+}

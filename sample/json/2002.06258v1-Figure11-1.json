@@ -1,0 +1,20 @@
+{
+    "paper_ID": "2002.06258v1",
+    "figure_ID": "2002.06258v1-Figure11-1.png",
+    "figure_type": "Graph Plot",
+    "ori_caption": "Fig. 11: End-to-end performance for NF-HEDM.",
+    "sentence_length": 1,
+    "title": "Big Data Staging with MPI-IO for Interactive X-ray Science",
+    "level_0_normalized_caption": [
+        "end-to-end performance for nf-hedm ."
+    ],
+    "ImgText": [],
+    "meta_info": {
+        "create_time": "2021-03-05 16:19:41",
+        "version": "v1_naive_baseline",
+        "contact_info": {
+            "name": "Ting-Yao Hsu",
+            "email": "txh357@psu.edu"
+        }
+    }
+}

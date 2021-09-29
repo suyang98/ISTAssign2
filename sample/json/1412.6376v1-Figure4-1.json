@@ -1,0 +1,51 @@
+{
+    "paper_ID": "1412.6376v1",
+    "figure_ID": "1412.6376v1-Figure4-1.png",
+    "figure_type": "Graph Plot",
+    "ori_caption": "Figure 4: The region encompassed by the list-decoding and the energy bounding condition for the case where n = 40000, p\u2032 = 18 , = 0.08 and t \u2208 [20000, 40000].",
+    "sentence_length": 1,
+    "title": "A characterization of the capacity of online (causal) binary channels",
+    "level_0_normalized_caption": [
+        "the region encompassed by the list-decoding and the energy bounding condition for the case where n = 0000 , p\u2032 = 18 , = 0.08 and t \u2208 [ 20000 , 0000 ] ."
+    ],
+    "ImgText": [
+        "p\u0302t",
+        "curve",
+        "selected",
+        "p\u0302",
+        "t",
+        "t",
+        "0.18",
+        "0.16",
+        "0.14",
+        "0.12",
+        "0.1",
+        "0.08",
+        "0.06",
+        "0.04",
+        "0.02",
+        "0",
+        "x",
+        "10",
+        "4",
+        "2",
+        "2.2",
+        "2.4",
+        "2.6",
+        "2.8",
+        "3",
+        "3.2",
+        "3.4",
+        "3.6",
+        "3.8",
+        "4"
+    ],
+    "meta_info": {
+        "create_time": "2021-03-05 16:18:53",
+        "version": "v1_naive_baseline",
+        "contact_info": {
+            "name": "Ting-Yao Hsu",
+            "email": "txh357@psu.edu"
+        }
+    }
+}

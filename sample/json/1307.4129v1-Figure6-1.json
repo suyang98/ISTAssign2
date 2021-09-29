@@ -1,0 +1,56 @@
+{
+    "paper_ID": "1307.4129v1",
+    "figure_ID": "1307.4129v1-Figure6-1.png",
+    "figure_type": "Graph Plot",
+    "ori_caption": "Figure 6: Number of nodes vs Memory usage",
+    "sentence_length": 1,
+    "title": "A Performance Comparison of Network Simulators for Wireless Networks",
+    "level_0_normalized_caption": [
+        "number of nodes vs memory usage ."
+    ],
+    "ImgText": [
+        "G",
+        "loMoS",
+        "im",
+        "OMNE",
+        "T++",
+        "NS",
+        "-3",
+        "NS",
+        "-2",
+        "g",
+        "e",
+        "s",
+        "a",
+        "ry",
+        "u",
+        "m",
+        "o",
+        "M",
+        "e",
+        "Number",
+        "of",
+        "nodes",
+        "400",
+        "800",
+        "1200",
+        "1600",
+        "2000",
+        "100",
+        "80",
+        "60",
+        "40",
+        "20",
+        "0",
+        "AOD",
+        "V"
+    ],
+    "meta_info": {
+        "create_time": "2021-03-05 16:22:52",
+        "version": "v1_naive_baseline",
+        "contact_info": {
+            "name": "Ting-Yao Hsu",
+            "email": "txh357@psu.edu"
+        }
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "paper_ID": "1308.5168v1",
+    "figure_ID": "1308.5168v1-Figure8-1.png",
+    "figure_type": "Graph Plot",
+    "ori_caption": "Figure 8: Accuracy for every minute. It shows that our detection model can achieve stable and reasonably good results after 7 minutes.",
+    "sentence_length": 2,
+    "title": "Is Somebody Watching Your Facebook Newsfeed?",
+    "level_0_normalized_caption": [
+        "accuracy for every minute .",
+        "it shows that our detection model can achieve stable and reasonably good results after 7 minutes ."
+    ],
+    "ImgText": [
+        "y",
+        "ur",
+        "ac",
+        "A",
+        "cc",
+        "Observation",
+        "period",
+        "(minutes)",
+        "1",
+        "0.95",
+        "0.9",
+        "0.85",
+        "0.8",
+        "0.75",
+        "0",
+        "5",
+        "10",
+        "15",
+        "20",
+        "25",
+        "0.7"
+    ],
+    "meta_info": {
+        "create_time": "2021-03-05 16:19:33",
+        "version": "v1_naive_baseline",
+        "contact_info": {
+            "name": "Ting-Yao Hsu",
+            "email": "txh357@psu.edu"
+        }
+    }
+}

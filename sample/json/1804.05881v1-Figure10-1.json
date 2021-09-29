@@ -1,0 +1,47 @@
+{
+    "paper_ID": "1804.05881v1",
+    "figure_ID": "1804.05881v1-Figure10-1.png",
+    "figure_type": "Graph Plot",
+    "ori_caption": "Fig. 10. Sum rate over aperture size in the LoS scenario for MR precoding and a square antenna geometry.",
+    "sentence_length": 1,
+    "title": "Evaluating Massive MIMO Precoding based on 3D-Channel Measurements with\n  a Spider Antenna",
+    "level_0_normalized_caption": [
+        "sum rate over aperture size in the los scenario for mr precoding and a square antenna geometry ."
+    ],
+    "ImgText": [
+        "simulated",
+        "measured",
+        "random",
+        "u]",
+        "[b",
+        "pc",
+        "ra",
+        "te",
+        "su",
+        "m",
+        "aperture",
+        "size",
+        "in",
+        "[m2]",
+        "\u03bb/2",
+        "10",
+        "5",
+        "0",
+        "0.1",
+        "0.2",
+        "0.3",
+        "0.4",
+        "0.5",
+        "0.6",
+        "0.7",
+        "0"
+    ],
+    "meta_info": {
+        "create_time": "2021-03-05 16:19:19",
+        "version": "v1_naive_baseline",
+        "contact_info": {
+            "name": "Ting-Yao Hsu",
+            "email": "txh357@psu.edu"
+        }
+    }
+}

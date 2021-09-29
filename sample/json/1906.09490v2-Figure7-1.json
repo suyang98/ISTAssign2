@@ -1,0 +1,46 @@
+{
+    "paper_ID": "1906.09490v2",
+    "figure_ID": "1906.09490v2-Figure7-1.png",
+    "figure_type": "Graph Plot",
+    "ori_caption": "Fig. 7. Simulated average SER performance (BPSK) of an RIS-based scheme with a varying number of reflecting meta-surfaces - Comparison with the theoretical formula in (17).",
+    "sentence_length": 1,
+    "title": "Wireless Communications Through Reconfigurable Intelligent Surfaces",
+    "level_0_normalized_caption": [
+        "simulated average ser performance ( bpsk ) of an ris-based scheme with a varying number of reflecting meta-surfaces - comparison with the theoretical formula in ( 1 ) ."
+    ],
+    "ImgText": [
+        "Es",
+        "/N0",
+        "(dB)",
+        "N=4",
+        "N=8",
+        "N=16",
+        "N=32",
+        "N=64",
+        "N=128",
+        "N=256",
+        "Theo.",
+        "10-2",
+        "10-1",
+        "SE",
+        "R",
+        "10-3",
+        "10-4",
+        "10-5",
+        "-40",
+        "-30",
+        "10",
+        "0",
+        "10-20",
+        "-",
+        "10-6"
+    ],
+    "meta_info": {
+        "create_time": "2021-03-05 16:21:21",
+        "version": "v1_naive_baseline",
+        "contact_info": {
+            "name": "Ting-Yao Hsu",
+            "email": "txh357@psu.edu"
+        }
+    }
+}
