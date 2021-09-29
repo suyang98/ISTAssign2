@@ -35,7 +35,7 @@
 
             // Time Lock
             // (1) init time_left
-            var time_left = 30;
+            var time_left = 60;
             
             // (2) create setInterval function.
             var interval_id = setInterval(function() {
@@ -54,36 +54,6 @@
                     $("#submit-btn").text("Submit ("+time_left+")");
                 }
             }, 1000);
-
-
-            // Minimum Word Count
-            // (1) init min_word_count
-            var min_word_count = 20;
-            var current_word_count = 0;
-
-            // (2) add a function to the change event on the "textarea" element
-            $("#caption").change(function() {
-
-                // (3) get the input text
-                var text = $("#caption").val();
-
-                // (4) split using space character (" ", "\t", "\n")
-                var words = text.split(/\s+/);
-
-                // (5) keep the current word count
-                current_word_count = words.length;
-
-                // (6) display information to users
-                $("#word-count").text(String(words.length));
-
-                // (7) if #words >= min_word_count => change to black
-                //     if #words <  min_word_count => change to red
-                if (words.length >= min_word_count) {
-                    $("#word-count").removeClass("red").addClass("black");
-                } else {
-                    $("#word-count").removeClass("black").addClass("red");
-                }
-            });
 
             // Add submission function
             $("#submit-btn").click(function() {
@@ -111,30 +81,41 @@
                 <div class="col-12">
                     <h1> Instruction </h1>
                     <ul>
-                        <li> 
-                            In this task you will see a figure. 
-                            Please write a caption <span class="underline"> to describe what happens in the figure.</span> 
-                        </li>
-                        <li> Please write at least <span class="highlight">20 words</span>. </li>
+                        <li> In this task you will see three figures from academic papers and their captions.</li>
+                        
+                        <li> Please read them carefully and <span class="underline"></span>answer the questions on the rightside</span>. </li>
                     </ul>
                 </div>
             </div>
 
             <div class="row">
-                <div class="col-4">
-                    <img class="rounded mx-auto d-block" src="test_image.jpg" width="100%">
+                <div class="col-6">
+                    <img class="rounded mx-auto d-block" src="sample/img/1001.2938v1-Figure9-1.png" width="100%">
+                    <p>Here should be a random caption. </p>
+
                 </div>
-                <div class="col-8">
-                    <textarea 
-                        id="caption"
-                        name="caption"
-                        class="form-control" 
-                        placeholder="Enter Caption Here" 
-                        rows="11"
-                        onpaste="return false"
-                        ondrop="return false"
-                    ></textarea>
-                    <div>Word Count: <span id="word-count" class="red">0</span> </div>
+                <div class="col-6">
+                    <form action="/action_page.php">
+                        <p>Please select your favorite Web language:</p>
+                        <input type="radio" id="html" name="fav_language" value="HTML">
+                        <label for="html">HTML</label><br>
+                        <input type="radio" id="css" name="fav_language" value="CSS">
+                        <label for="css">CSS</label><br>
+                        <input type="radio" id="javascript" name="fav_language" value="JavaScript">
+                        <label for="javascript">JavaScript</label>
+                      
+                        <br>  
+                      
+                        <p>Please select your age:</p>
+                        <input type="radio" id="age1" name="age" value="30">
+                        <label for="age1">0 - 30</label><br>
+                        <input type="radio" id="age2" name="age" value="60">
+                        <label for="age2">31 - 60</label><br>  
+                        <input type="radio" id="age3" name="age" value="100">
+                        <label for="age3">61 - 100</label><br><br>
+                        <input type="submit" value="Submit">
+                      </form>
+                      
                 </div>
             </div>
 
