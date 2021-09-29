@@ -31,13 +31,8 @@
 
     <script>
         /* Your own JavaScript code */
-        // var imgArr = ['sample/img/1001.2938v1-Figure9-1.png','sample/img/1004.4612v1-Figure6-1.png','sample/img/1102.2936v3-Figure4-1.png'];
-        // var index = Math.floor((Math.random()*imgArr.length));
-        // var imgSrc = imgArr[index];
-        // var imgEle = document.getElementByTagName('img')[0];//获取需要改变的img标签
-        // imgEle.setAttribute('src',imgSrc);//设置src属性
-
         $(document).ready(function() {
+
             // Time Lock
             // (1) init time_left
             var time_left = 30;
@@ -59,6 +54,36 @@
                     $("#submit-btn").text("Submit ("+time_left+")");
                 }
             }, 1000);
+
+
+            // Minimum Word Count
+            // (1) init min_word_count
+            var min_word_count = 20;
+            var current_word_count = 0;
+
+            // (2) add a function to the change event on the "textarea" element
+            $("#caption").change(function() {
+
+                // (3) get the input text
+                var text = $("#caption").val();
+
+                // (4) split using space character (" ", "\t", "\n")
+                var words = text.split(/\s+/);
+
+                // (5) keep the current word count
+                current_word_count = words.length;
+
+                // (6) display information to users
+                $("#word-count").text(String(words.length));
+
+                // (7) if #words >= min_word_count => change to black
+                //     if #words <  min_word_count => change to red
+                if (words.length >= min_word_count) {
+                    $("#word-count").removeClass("red").addClass("black");
+                } else {
+                    $("#word-count").removeClass("black").addClass("red");
+                }
+            });
 
             // Add submission function
             $("#submit-btn").click(function() {
@@ -85,58 +110,31 @@
             <div class="row">
                 <div class="col-12">
                     <h1> Instruction </h1>
-                        <p> In this task, you will see a figure from an academic paper and the caption of it. Please read them carefully and evaluate the quality of the <span class="highlight"></span> caption </span> . </p>
-                        <ul>
-                            <li>  First, if there are errors in the sample, you could report them on the rightside. </li> 
-                            <li>  Second, if there is no error, please chose the corresponding option to evaluate the quality of the caption. </li>
-                        </ul>
+                    <ul>
+                        <li> 
+                            In this task you will see a figure. 
+                            Please write a caption <span class="underline"> to describe what happens in the figure.</span> 
+                        </li>
+                        <li> Please write at least <span class="highlight">20 words</span>. </li>
+                    </ul>
                 </div>
             </div>
 
             <div class="row">
-                <div class="col-6">
-                    <img class="rounded mx-auto d-block" src="sample/img/1001.2938v1-Figure9-1.png" width="100%">
-                    <p>Here should be a random caption. </p>
-
+                <div class="col-4">
+                    <img class="rounded mx-auto d-block" src="test_image.jpg" width="100%">
                 </div>
-                <div class="col-6">
-                    <form action="/submit_error.php">
-                        <p>Are the following errors appearing in the pair of the figure and the caption? </p>
-                        <input type="checkbox" id="Figure-Extraction" name="error-group" value="Figure-Extraction">
-                        <label for="Figure-Extraction">Figure Extraction Errors</label> 
-                        <input type="checkbox" id="Caption-Extraction" name="error-group" value="Caption-Extraction">
-                        <label for="Caption-Extraction">Caption Extraction errors</label><br> 
-                        <input type="checkbox" id="Hard-to-Understand" name="error-group" value="Hard-to-Understand">
-                        <label for="Hard-to-Understand">Hard-to-Understand captions</label>
-                      <input type="checkbox" id="No-error" name="error-group" value="No-error">
-                      <label for="No-error">No Error Exists</label><br>
-                      </form>
-                      
-                    <form action="/quality.php">
-                        <p>The caption matches the figure. </p>
-                        <input type="radio" id="00" name="match-group" value="00">
-                        <label for="00"> Totally disagree</label><br>
-                        <input type="radio" id="01" name="match-group" value="01">
-                        <label for="01">Disagree a little</label><br>
-                        <input type="radio" id="02" name="match-group" value="02">
-                        <label for="02">Neutral opinion</label><br>
-                        <input type="radio" id="03" name="match-group" value="03">
-                        <label for="03">Agree a little</label><br>
-                        <input type="radio" id="04" name="match-group" value="04">
-                        <label for="04">Totally Agree</label><br>
-                        <p>The caption clearly describes the figure.</p>
-                        <input type="radio" id="10" name="clear-group" value="10">
-                        <label for="10">Totally disagree</label><br>
-                        <input type="radio" id="11" name="clear-group" value="11">
-                        <label for="11">Disagree a little</label><br>
-                        <input type="radio" id="12" name="clear-group" value="12">
-                        <label for="12">Neutral opinion</label><br>
-                        <input type="radio" id="13" name="clear-group" value="13">
-                        <label for="13">Agree a little</label><br>
-                        <input type="radio" id="14" name="clear-group" value="14">
-                        <label for="14">Totally Agree</label><br>
-                      </form>
-                      
+                <div class="col-8">
+                    <textarea 
+                        id="caption"
+                        name="caption"
+                        class="form-control" 
+                        placeholder="Enter Caption Here" 
+                        rows="11"
+                        onpaste="return false"
+                        ondrop="return false"
+                    ></textarea>
+                    <div>Word Count: <span id="word-count" class="red">0</span> </div>
                 </div>
             </div>
 
