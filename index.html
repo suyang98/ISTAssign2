@@ -1,0 +1,157 @@
+<html>
+<head>
+    <title>Collecting Captions</title>
+    <meta charset="utf-8">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous"> 
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+    <style>
+        /* Your own CSS code */
+        #submission_block {
+            margin-top: 20px;
+        }
+        .highlight {
+            background-color: yellow;
+            color: red;
+            font-weight: bold;
+        }
+        .underline {
+            font-weight: bold;
+            text-decoration: underline;
+        }
+        .red {
+            color: red;
+        }
+        .black {
+            color: black;
+        }
+    </style>
+
+    <script>
+        /* Your own JavaScript code */
+        $(document).ready(function() {
+
+            // Time Lock
+            // (1) init time_left
+            var time_left = 30;
+            
+            // (2) create setInterval function.
+            var interval_id = setInterval(function() {
+                // count down 1 second
+                time_left -= 1;
+                
+                // if time_left == 0 => turn on the submit-btn
+                //                   => remove time information on the button
+                //                   => stop setInterval function
+                if (time_left == 0) {
+                    $("#submit-btn").prop("disabled", false);
+                    $("#submit-btn").text("Submit");
+                    clearInterval(interval_id);
+                } else {
+                    // if time_left => display time information to users
+                    $("#submit-btn").text("Submit ("+time_left+")");
+                }
+            }, 1000);
+
+
+            // Minimum Word Count
+            // (1) init min_word_count
+            var min_word_count = 20;
+            var current_word_count = 0;
+
+            // (2) add a function to the change event on the "textarea" element
+            $("#caption").change(function() {
+
+                // (3) get the input text
+                var text = $("#caption").val();
+
+                // (4) split using space character (" ", "\t", "\n")
+                var words = text.split(/\s+/);
+
+                // (5) keep the current word count
+                current_word_count = words.length;
+
+                // (6) display information to users
+                $("#word-count").text(String(words.length));
+
+                // (7) if #words >= min_word_count => change to black
+                //     if #words <  min_word_count => change to red
+                if (words.length >= min_word_count) {
+                    $("#word-count").removeClass("red").addClass("black");
+                } else {
+                    $("#word-count").removeClass("black").addClass("red");
+                }
+            });
+
+            // Add submission function
+            $("#submit-btn").click(function() {
+                // Verify word counts!
+                if (current_word_count < min_word_count) {
+                    alert("Please write at least 20 words");
+                    return false;
+                }
+
+                // Verify other constraints!!
+                // ******* //
+
+                // Submit
+                $("#worker-form").submit();
+            });
+
+        });
+    </script>
+</head>
+<body>
+    <!-- Your own HTML code -->
+    <div class="container">
+        <form id="worker-form">
+            <div class="row">
+                <div class="col-12">
+                    <h1> Instruction </h1>
+                    <ul>
+                        <li> 
+                            In this task you will see a figure. 
+                            Please write a caption <span class="underline"> to describe what happens in the figure.</span> 
+                        </li>
+                        <li> Please write at least <span class="highlight">20 words</span>. </li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-4">
+                    <img class="rounded mx-auto d-block" src="test_image.jpg" width="100%">
+                </div>
+                <div class="col-8">
+                    <textarea 
+                        id="caption"
+                        name="caption"
+                        class="form-control" 
+                        placeholder="Enter Caption Here" 
+                        rows="11"
+                        onpaste="return false"
+                        ondrop="return false"
+                    ></textarea>
+                    <div>Word Count: <span id="word-count" class="red">0</span> </div>
+                </div>
+            </div>
+
+            <div class="row" id="submission_block">
+                <div class="col-12">
+                    <button 
+                        disabled 
+                        id="submit-btn" 
+                        type="button" 
+                        class="btn btn-outline-primary btn-block"
+                    >
+                        Submit
+                    </button>
+                </div>
+            </div>
+        </form>
+    </div>
+
+</body>
+</html>
