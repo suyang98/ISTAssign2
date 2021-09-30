@@ -36,6 +36,8 @@
         // var imgSrc = imgArr[index];
         // var imgEle = document.getElementByTagName('img')[0];//获取需要改变的img标签
         // imgEle.setAttribute('src',imgSrc);//设置src属性
+        document.getElementsByTagName("match-group").disabled=true;
+        document.getElementsByTagName("clear-group").disabled=true;
 
         $(document).ready(function() {
             // Time Lock
@@ -101,7 +103,7 @@
                 </div>
                 <div class="col-6">
                     <form action="/submit_error.php">
-                        <p><strong>Are the following errors appearing in the pair of the figure and the caption? </strong> </p>
+                        <p><strong>Are the following errors appearing in the figure and the caption? </strong> </p>
                         <input type="checkbox" id="Figure-Extraction" name="error-group" value="Figure-Extraction">
                         <label for="Figure-Extraction">Figure Extraction Errors</label> 
                         <input type="checkbox" id="Caption-Extraction" name="error-group" value="Caption-Extraction">
