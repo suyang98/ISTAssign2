@@ -50,7 +50,7 @@
         $(document).ready(function() {
             // Time Lock
             // (1) init time_left
-            var time_left = 40;
+            var time_left = 30;
             
             // (2) create setInterval function.
             var interval_id = setInterval(function() {
@@ -70,6 +70,17 @@
                 }
             }, 1000);
 
+            //If no error is detected 
+            $("#caption").change(function() {
+                if (document.getElementsById('No-error')== True) {
+                    document.getElementsByName("match-group").disabled=false;
+                    document.getElementsByName("clear-group").disabled=false;
+                } else {
+                    document.getElementsByName("match-group").disabled=true;
+                    document.getElementsByName("clear-group").disabled=true;
+                }
+            });
+            
             // Add submission function
             $("#submit-btn").click(function() {
                 // Verify word counts!
