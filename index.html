@@ -34,11 +34,7 @@
 
         $(document).ready(function() {
             
-            var imgArr = ['sample/img/1001.2938v1-Figure9-1.png','sample/img/1004.4612v1-Figure6-1.png','sample/img/1102.2936v3-Figure4-1.png'];
-            var index = Math.floor((Math.random()*imgArr.length));
-            var imgSrc = imgArr[index];
-            var imgEle = document.getElementById('test_img')[0];
-            imgEle.setAttribute('src',imgSrc);
+            
             // Time Lock
             // (1) init time_left
             var time_left = 5;
@@ -152,7 +148,14 @@
 
             <div class="row">
                 <div class="col-6">
-                    <img class="rounded mx-auto d-block" id="test_img" src="sample/img/1001.2938v1-Figure9-1.png" width="100%">
+                    <script>
+                        var imgArr = ['sample/img/1001.2938v1-Figure9-1.png','sample/img/1004.4612v1-Figure6-1.png','sample/img/1102.2936v3-Figure4-1.png'];
+                        var index = Math.floor((Math.random()*imgArr.length));
+                        document.write("<img class=\"rounded mx-auto d-block\" src= "+imgArr[index]+" width=\"100%\">");
+                        var imgEle = document.getElementById('test_img')[0];
+                        imgEle.setAttribute('src',imgSrc);
+                    </script>
+                    <!-- <img class="rounded mx-auto d-block" src="sample/img/1001.2938v1-Figure9-1.png" width="100%"> -->
                     <p><strong>Here should be a random caption.</strong> </p>
 
                 </div>
