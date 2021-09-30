@@ -89,13 +89,16 @@
             
             // Add submission function
             $("#submit-btn").click(function() {
-                var flag=false;
                 var names = document.getElementsByName('error-group');
                 for (var i=0; i<3; i++){
                     if (names[i].checked){
                         $("#worker-form").submit();
                         return true;
                     }
+                }
+                if (!names[3].checked) {
+                    alert("Please check if there is an error in this sample!");
+                    return false;
                 }
                 var flag1=false, flag2=false;
                 var names1=document.getElementsByName('match-group');
@@ -113,11 +116,11 @@
                     } 
                 }
                 if (!flag1){
-                    alert("Please evaluate if the caption matches the figure");
+                    alert("Please evaluate if the caption matches the figure!");
                     return false;
                 }
                 if (!flag2){
-                    alert("Please evaluate if the caption clearly describes the figure");
+                    alert("Please evaluate if the caption clearly describes the figure!");
                     return false;
                 }
                 $("#worker-form").submit();
