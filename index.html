@@ -36,8 +36,16 @@
         // var imgSrc = imgArr[index];
         // var imgEle = document.getElementByTagName('img')[0];//获取需要改变的img标签
         // imgEle.setAttribute('src',imgSrc);//设置src属性
-        document.getElementsByClassName("match-group").disabled=true;
-        document.getElementsByClassName("clear-group").disabled=true;
+        document.getElementsById("00").disabled=true;
+        document.getElementsById("01").disabled=true;
+        document.getElementsById("02").disabled=true;
+        document.getElementsById("03").disabled=true;
+        document.getElementsById("04").disabled=true;
+        document.getElementsById("10").disabled=true;
+        document.getElementsById("11").disabled=true;
+        document.getElementsById("12").disabled=true;
+        document.getElementsById("13").disabled=true;
+        document.getElementsById("14").disabled=true;
 
         $(document).ready(function() {
             // Time Lock
@@ -136,7 +144,7 @@
                         <input type="radio" id="13" name="clear-group" value="13">
                         <label for="13">Agree a little</label><br>
                         <input type="radio" id="14" name="clear-group" value="14">
-                        <label for="14">Totally Agree!!!!</label><br>
+                        <label for="14">Totally Agree</label><br>
                       </form>
                       
                 </div>
