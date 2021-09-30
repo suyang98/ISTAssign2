@@ -85,22 +85,41 @@
                     $("#13").prop("disabled", true);
                     $("#14").prop("disabled", true);
                 }
-                    
-                
             });
             
             // Add submission function
             $("#submit-btn").click(function() {
-                // Verify word counts!
-                if (current_word_count < min_word_count) {
-                    alert("Please write at least 20 words");
+                var flag=false;
+                var names = document.getElementsByName('error-group');
+                for (var i=0; i<3; i++){
+                    if (names[i].checked){
+                        $("#worker-form").submit();
+                        return true;
+                    }
+                }
+                var flag1=false, flag2=false;
+                var names1=document.getElementsByName('match-group');
+                var names2=document.getElementsByName('clear-group');
+                for (var i=0; i<5; i++){
+                    if (names1[i].checked){
+                        flag1=true;
+                        break;
+                    } 
+                }
+                for (var i=0; i<5; i++){
+                    if (names2[i].checked){
+                        flag2=true;
+                        break;
+                    } 
+                }
+                if (!flag1){
+                    alert("Please evaluate if the caption matches the figure");
                     return false;
                 }
-
-                // Verify other constraints!!
-                // ******* //
-
-                // Submit
+                if (!flag2){
+                    alert("Please evaluate if the caption clearly describes the figure");
+                    return false;
+                }
                 $("#worker-form").submit();
             });
 
@@ -137,8 +156,8 @@
                         <label for="Caption-Extraction">Caption Extraction errors</label><br> 
                         <input type="checkbox" id="Hard-to-Understand" name="error-group" value="Hard-to-Understand">
                         <label for="Hard-to-Understand">Hard-to-Understand captions</label>
-                      <input type="checkbox" id="No-error" name="error-group" value="No-error">
-                      <label for="No-error">No Error Exists</label><br>
+                       <input type="checkbox" id="No-error" name="error-group" value="No-error">
+                       <label for="No-error">No Error Exists</label><br>
                       </form>
                       
                     <form action="/quality.php">
