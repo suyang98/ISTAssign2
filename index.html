@@ -93,6 +93,7 @@
                 var names = document.getElementsByName('error-group');
                 for (var i=0; i<3; i++){
                     if (names[i].checked){
+                        alert("Submit Successfully!");
                         $("#worker-form").submit();
                         return true;
                     }
@@ -124,7 +125,7 @@
                     alert("Please evaluate if the caption clearly describes the figure!");
                     return false;
                 }
-                alert("Submit Successfully!")
+                alert("Submit Successfully!");
                 $("#worker-form").submit();
             });
 
@@ -171,11 +172,17 @@
                                        '2009.11713v2-Figure5-1', '2010.05024v1-Figure4-1', '2010.14004v2-Figure15-1', '2011.04556v1-Figure2-1', '2011.09246v1-Figure5-1'];
                         var index = Math.floor((Math.random()*nameArr.length));
                         document.write("<img class=\"rounded mx-auto d-block\" src= \"sample/img/"+nameArr[index]+".png\" width=\"100%\">");
+                        
+                        var request = new XMLHttpRequest();
+                        request.open("GET","sample/json/"+ameArr[index]+".json", false);
+                        request.send(null);
+                        var json_object = JSON.parse(request.responseText);
+                        document.write("<br><p><strong>" +json_object['ori_caption']+"</strong> </p>");
                         // var imgEle = document.getElementById('test_img')[0];
                         // imgEle.setAttribute('src',imgSrc);
 
                     </script>
-                    <!-- <img class="rounded mx-auto d-block" src="sample/img/1001.2938v1-Figure9-1.png" width="100%"> -->
+                    // <img class="rounded mx-auto d-block" src="sample/img/1001.2938v1-Figure9-1.png" width="100%">
                     <p><strong>Here should be a random caption.</strong> </p>
 
                 </div>
