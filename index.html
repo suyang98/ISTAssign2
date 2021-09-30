@@ -174,8 +174,10 @@
                         
                         var request = new XMLHttpRequest();
                         request.open("GET","sample/json/"+ameArr[index]+".json", false);
-                        request.send(null);
-                        var json_object = JSON.parse(request.responseText);
+//                         request.send(null);
+//                         var json_object = JSON.parse(request.responseText);
+
+
                         document.write("<img class=\"rounded mx-auto d-block\" src= \"sample/img/"+nameArr[index]+".png\" width=\"100%\"><br>");
                         document.write("<p><strong>caption</strong> </p>");
                         document.write("<p><strong>" +json_object['ori_caption']+"</strong> </p>");
