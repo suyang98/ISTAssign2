@@ -40,7 +40,7 @@
         $(document).ready(function() {
             // Time Lock
             // (1) init time_left
-            var time_left = 30;
+            var time_left = 5;
             
             // (2) create setInterval function.
             var interval_id = setInterval(function() {
@@ -62,7 +62,7 @@
 
             //If no error is detected 
             $("#No-error").change(function() {
-                if ($(this).attr("checked")) {
+                if ($("#No-error").checked) {
                     $("#00").prop("disabled", false);
                     $("#01").prop("disabled", false);
                     $("#02").prop("disabled", false);
@@ -123,6 +123,7 @@
                     alert("Please evaluate if the caption clearly describes the figure!");
                     return false;
                 }
+                alert("Submit Successfully!")
                 $("#worker-form").submit();
             });
 
@@ -140,7 +141,7 @@
                         <ul>
                             <li>  First, if there are errors in the sample, you could <span class="underline">report errors on the rightside</span>. </li> 
                             <li>  Second, if there is no error, please  <span class="underline">chose the corresponding option to evaluate the quality of the caption</span>. </li>
-                        </ul>
+                        </ul><br>
                 </div>
             </div>
 
@@ -154,13 +155,13 @@
                     <form action="/submit_error.php">
                         <p><strong>Are the following errors appearing in the figure and the caption? </strong> </p>
                         <input type="checkbox" id="Figure-Extraction" name="error-group" value="Figure-Extraction">
-                        <label for="Figure-Extraction">Figure Extraction Errors</label> 
+                        <label for="Figure-Extraction">Figure extraction errors</label> 
                         <input type="checkbox" id="Caption-Extraction" name="error-group" value="Caption-Extraction">
-                        <label for="Caption-Extraction">Caption Extraction errors</label><br> 
+                        <label for="Caption-Extraction">Caption extraction errors</label><br> 
                         <input type="checkbox" id="Hard-to-Understand" name="error-group" value="Hard-to-Understand">
-                        <label for="Hard-to-Understand">Hard-to-Understand captions</label>
+                        <label for="Hard-to-Understand">Hard-to-understand captions</label>
                        <input type="checkbox" id="No-error" name="error-group" value="No-error">
-                       <label for="No-error">No Error Exists</label><br>
+                       <label for="No-error">No error exists</label><br>
                       </form>
                       
                     <form action="/quality.php">
