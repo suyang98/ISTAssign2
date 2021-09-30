@@ -62,7 +62,11 @@
 
             //If no error is detected 
             $("#No-error").change(function() {
-                if ($("#No-error").checked) {
+                var box = document.getElementsByName('error-group');
+                if (box[3].checked) {
+                    if (box[0].checked||box[1].checked||box[2].checked){
+                        alert("Please read the first question carefully!");
+                    }
                     $("#00").prop("disabled", false);
                     $("#01").prop("disabled", false);
                     $("#02").prop("disabled", false);
@@ -73,7 +77,7 @@
                     $("#12").prop("disabled", false);
                     $("#13").prop("disabled", false);
                     $("#14").prop("disabled", false);
-                } else if ($(this).checked){
+                } else {
                     $("#00").prop("disabled", false);
                     $("#01").prop("disabled", true);
                     $("#02").prop("disabled", true);
@@ -175,7 +179,7 @@
                         <input type="radio" id="03" name="match-group" value="03" disabled=True>
                         <label for="03">Agree a little</label><br>
                         <input type="radio" id="04" name="match-group" value="04" disabled=True>
-                        <label for="04">Totally Agree</label><br>
+                        <label for="04">Totally agree</label><br>
                         <p><strong>The caption clearly describes the figure.</strong></p>
                         <input type="radio" id="10" name="clear-group" value="10" disabled=True>
                         <label for="10">Totally disagree</label><br>
@@ -186,7 +190,7 @@
                         <input type="radio" id="13" name="clear-group" value="13" disabled=True>
                         <label for="13">Agree a little</label><br>
                         <input type="radio" id="14" name="clear-group" value="14" disabled=True>
-                        <label for="14">Totally Agree</label><br>
+                        <label for="14">Totally agree</label><br>
                       </form>
                       
                 </div>
