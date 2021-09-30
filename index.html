@@ -73,10 +73,10 @@
             //If no error is detected 
             $("#caption").change(function() {
                 if (document.getElementsById('No-error')== True) {
-                    document.getElementsByName("match-group").disabled=false;
+                    document.getElementsById("00").disabled=false;
                     document.getElementsByName("clear-group").disabled=false;
                 } else {
-                    document.getElementsByName("match-group").disabled=true;
+                    document.getElementsById("00").disabled=true;
                     document.getElementsByName("clear-group").disabled=true;
                 }
             });
