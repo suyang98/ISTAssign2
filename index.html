@@ -58,11 +58,34 @@
             }, 1000);
 
             //If no error is detected 
+            $("#Hard-to-Understand").change(function() {
+                var box = document.getElementsByName('error-group');
+                if (box[3].checked &&box[2].checked){
+                    alert("Please read the first question carefully!");
+                    ("#Hard-to-Understand").prop("checked", false);
+                }
+            });
+            $("#Caption-Extraction").change(function() {
+                var box = document.getElementsByName('error-group');
+                if (box[3].checked &&box[1].checked){
+                    alert("Please read the first question carefully!");
+                    ("#Caption-Extraction").prop("checked", false);
+                }
+            });
+            $("#Figure-Extraction").change(function() {
+                var box = document.getElementsByName('error-group');
+                if (box[3].checked &&box[0].checked){
+                    alert("Please read the first question carefully!");
+                    ("#Figure-Extraction").prop("checked", false);
+                }
+            });
             $("#No-error").change(function() {
                 var box = document.getElementsByName('error-group');
                 if (box[3].checked) {
                     if (box[0].checked||box[1].checked||box[2].checked){
                         alert("Please read the first question carefully!");
+                        ("#No-error").prop("checked", false);
+                        break;
                     }
                     $("#00").prop("disabled", false);
                     $("#01").prop("disabled", false);
