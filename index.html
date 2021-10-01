@@ -85,18 +85,18 @@
                     if (box[0].checked||box[1].checked||box[2].checked){
                         alert("Please read the first question carefully!");
                         ("#No-error").prop("checked", false);
-                        break;
+                    } else{
+                        $("#00").prop("disabled", false);
+                        $("#01").prop("disabled", false);
+                        $("#02").prop("disabled", false);
+                        $("#03").prop("disabled", false);
+                        $("#04").prop("disabled", false);
+                        $("#10").prop("disabled", false);
+                        $("#11").prop("disabled", false);
+                        $("#12").prop("disabled", false);
+                        $("#13").prop("disabled", false);
+                        $("#14").prop("disabled", false);
                     }
-                    $("#00").prop("disabled", false);
-                    $("#01").prop("disabled", false);
-                    $("#02").prop("disabled", false);
-                    $("#03").prop("disabled", false);
-                    $("#04").prop("disabled", false);
-                    $("#10").prop("disabled", false);
-                    $("#11").prop("disabled", false);
-                    $("#12").prop("disabled", false);
-                    $("#13").prop("disabled", false);
-                    $("#14").prop("disabled", false);
                 } else {
                     $("#00").prop("disabled", true);$("#00").prop("checked", false);
                     $("#01").prop("disabled", true);$("#01").prop("checked", false);
